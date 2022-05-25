@@ -11,7 +11,7 @@ tag: ["Frontend", "React", "Redux"]
 
 상태관리 라이브러리는 정말 많다. 최근에 들어본 상태관리 라이브러리는 Mobx , Recoil, Zustand 등등..
 
-![NpmTrends](/redux.png)
+![NpmTrends](images/redux.png)
 
 다른 상태관리를 직접 프로젝트에서 적용해보진 않았지만, 통계적으로 압도적이다.
 
@@ -74,7 +74,7 @@ immer가 이러한 불변성을 관리 해준다.
 2. action : describes what happened in the application
 3. reducer : handles the action and decides how to update the state
 
-### 리덕스툴킷 문법
+# 리덕스툴킷 문법
 
 1. 스토어 생성
 
@@ -96,7 +96,7 @@ export type RootState = ReturnType<typeof store.getState>;
 export type AppDispatch = typeof store.dispatch;
 ```
 
-## 장점
+# 장점
 
 1. Hooks사용
    매번 useDispatch와 useSelector를 선언할때 타입까지 상태 타입까지 설정해야하는 번거로운 문제가 있었다.
