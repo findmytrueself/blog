@@ -1,8 +1,7 @@
 ---
-title: "이미지 마스킹하기"
-date: 2022-05-26T13:59:55+09:00
+title: "리액트에서 이미지 마스킹하기"
+date: 2022-05-30T18:26:25+09:00
 draft: true
-tag: ["typescript", "react", "javascript", "frontend", "web"]
 ---
 
 ```tsx
