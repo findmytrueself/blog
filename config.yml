@@ -28,7 +28,7 @@ menu:
       weight: 30
     - identifier: RESUME
       name: RESUME
-      url: '/pdfs/프론트엔드_임훈.pdf'
+      url: '/pdfs/3년차_프론트엔드_임훈.pdf'
 params:
   defaultTheme: auto
   title: Hun's Blog
