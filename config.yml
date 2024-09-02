@@ -1,8 +1,8 @@
 baseURL: http://findmytrueself.github.io/
 languageCode: en-us
-title: DevLog ✍️
+title: Hun's Blog ✍️
 paginate: 5
-theme: "PaperMod"
+theme: 'PaperMod'
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -20,27 +20,29 @@ menu:
   main:
     - identifier: POSTS
       name: POSTS
-      url: /posts/
+      url: /posts
       weight: 30
     - identifier: LIFE
       name: LIFE
-      url: /life/
+      url: /life
       weight: 30
-
+    - identifier: RESUME
+      name: RESUME
+      url: '/pdfs/프론트엔드_임훈.pdf'
 params:
   defaultTheme: auto
-  title: 임훈 DevLog
+  title: Hun's Blog
   author: Me
-  description: "프론트엔드 개발자 성장기"
+  description: '프론트엔드 개발자 성장기'
   keywords: [Blog, Portfolio, PaperMod]
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: false
+  comments: true
   hidemeta: false
   hideSummary: false
   showtoc: false
@@ -51,18 +53,17 @@ params:
 
   socialIcons:
     - name: github
-      url: "https://github.com/findmytrueself"
+      url: 'https://github.com/findmytrueself'
     - name: instagram
-      url: "https://instagram.com/instant.coffee_"
-    - name: resume
-      url: "https://tender-river-902.notion.site/9b09ca894712498eada7e35c853c31c4"
+      url: 'https://instagram.com/instant.coffee_'
+
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: 'XYZabc'
     bing:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: 'XYZabc'
     yandex:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: 'XYZabc'
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
@@ -70,4 +71,4 @@ params:
     distance: 1000
     threshold: 0.4
     minMatchCharLength: 0
-    keys: ["title", "permalink", "summary", "content"]
+    keys: ['title', 'permalink', 'summary', 'content']
