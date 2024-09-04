@@ -11,7 +11,8 @@ pygmentsUseClasses = true
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 googleAnalytics = "UA-123-45"
-
+relativeURLs = true
+canonifyURLs = true
 [minify]
   disableXML = true
   minifyOutput = true
