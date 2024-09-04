@@ -6,7 +6,7 @@ category: ["POSTS"]
 tag: ["Frontend", "React", "Redux"]
 ---
 
-# 인트로
+**인트로**
 
 지금껏 프로젝트를 하면서, 리덕스를 사용하여 상태관리를 해왔다.
 
@@ -30,7 +30,7 @@ tag: ["Frontend", "React", "Redux"]
 
 이번 새로운 프로젝트에는 리덕스 툴킷을 처음부터 사용해보고자, 정리하여 글로써 남겨본다.
 
-# 리덕스
+**리덕스**
 
 1. Redux is a state container
 2. The state of the application can change
@@ -41,12 +41,12 @@ tag: ["Frontend", "React", "Redux"]
    - The patterns and tools provided by Redux make it easier to understand, when, where, why, and how the state in your application is being updated, and how your application logic will behave when those changes occur
    - Redux guides you towords writing code that is predictable and testable, which helps give you confidence that your application will work as exected
 
-# 리덕스 툴킷
+**리덕스 툴킷**
 
 1. Redux toolkit is the officail, opinionated, batteries-included toolset for efficient Redux development.
 2. It is also intended to be the standard way to write Redux logic in your application
 
-# 리덕스 툴킷을 쓰는 이유
+**리덕스 툴킷을 쓰는 이유**
 
 1. Redux is great, but it does have a few shortcomings,
 
@@ -56,26 +56,26 @@ tag: ["Frontend", "React", "Redux"]
 
 2. Redux toolkit serves as an abstraction over redux. It hides the difficult parts ensuring you have a good developer experience.
 
-# 언제 리덕스를 써야하는가?
+**언제 리덕스를 써야하는가?**
 
 1. You have large amounts of application state that are needed in many places in the app
 2. The app state is updated frequently over time
 3. The logic to update that state may be complex
 4. The app has a medium or large-sized codebase, and might be worked on by many people
 
-# Immer 라이브러리
+**Immer 라이브러리**
 
 리덕스 객체를 다룰때, immutable을 유지하기 위해 rest parameter 혹은 배열의 내장함수를 이용해서 불변성을 구현 할 수 있지만, 코드가 복잡해지는 단점이 있다.
 
 immer가 이러한 불변성을 관리 해준다.
 
-# 세가지 컨셉
+**세가지 컨셉**
 
 1. store : holds the state of your application.
 2. action : describes what happened in the application
 3. reducer : handles the action and decides how to update the state
 
-# 리덕스툴킷 문법
+**리덕스툴킷 문법**
 
 1. 스토어 생성
 
@@ -97,7 +97,7 @@ export type RootState = ReturnType<typeof store.getState>;
 export type AppDispatch = typeof store.dispatch;
 ```
 
-# 장점
+**장점**
 
 1. Hooks사용
    매번 useDispatch와 useSelector를 선언할때 타입까지 상태 타입까지 설정해야하는 번거로운 문제가 있었다.

@@ -2,14 +2,15 @@ baseURL: http://findmytrueself.github.io/
 languageCode: en-us
 title: Hun's Blog ✍️
 paginate: 5
-theme: 'PaperMod'
+theme: 'archie'
 
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
 pygmentsUseClasses: true
-
+defaultContentLanguage: 'en'
+defaultContentLanguageInSubdir: false
 googleAnalytics: UA-123-45
 
 minify:
@@ -30,9 +31,10 @@ menu:
       name: RESUME
       url: '/pdfs/3년차_프론트엔드_임훈.pdf'
 params:
+  author: 
+    name: Im Hun
   defaultTheme: auto
   title: Hun's Blog
-  author: Me
   description: '프론트엔드 개발자 성장기'
   keywords: [Blog, Portfolio, PaperMod]
   ShowReadingTime: true

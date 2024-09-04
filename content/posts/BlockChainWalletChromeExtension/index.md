@@ -6,7 +6,7 @@ category: ['POSTS']
 tag: ['javascript', 'web3', 'BlockChainWallet', '블록체인 지갑 서비스']
 ---
 
-# 9월, 개발 세팅 및 코드 분석
+**9월, 개발 세팅 및 코드 분석**
 
 22년 9월, 기존 크롬에 배포 된 블록체인 지갑을 리뉴얼 하는 작업을 맡게 되었다.
 
@@ -18,7 +18,7 @@ SPA 구조를 알았기 때문에, Vue2 문법과 구조를 쉽게 파악 할 �
 
 기존 개발 된 기능을 다시 개발 하기에는 인력도 시간도 능력도 부족했다. 울며 겨자먹기로 기존 코드를 리팩터링 했었던 것 같다.
 
-# 10월~11월, 디자인 수정 및 데이터 구조 변경
+**10월~11월, 디자인 수정 및 데이터 구조 변경**
 
 기존 버전의 단순한 디자인에서 좀더 화려한 디자인으로 수정이 되었고, Flow도 많이 바뀌었다.
 
@@ -34,7 +34,7 @@ View단에 보여지는 모든 상태는 vuex store에서 상태관리를 한다
 
 getter와 computed를 사용하여 상태를 감지한다.
 
-# 12월~1월, Manifest 이슈 발생 및 원인 발견
+**12월~1월, Manifest 이슈 발생 및 원인 발견**
 
 보안상 구글 크롬 Manifest v3으로 2023년에 무조건 업그레이드를 해야한다고 이미 얘기가 나와있었다.
 
@@ -46,7 +46,7 @@ getter와 computed를 사용하여 상태를 감지한다.
 
 원개발자인 외국인 개발자에게 협조를 요청했고, SDK 수정 이후에 Menifest 버전을 올릴 수 있었다.
 
-# 2월, background 로직 수정
+**2월, background 로직 수정**
 
 manifest 버전에 올라 가면서, chrome runtime 객체의 구조가 바뀌었고, background 구동 방식이 기존 html페이지에서 serviceworker.js 로 바뀌었기 때문에 많은게 바뀌어야 하는 상황이 생겼다.
 
@@ -56,7 +56,7 @@ manifest 버전에 올라 가면서, chrome runtime 객체의 구조가 바뀌�
 
 [Persistent Service Worker in Chrome Extension][https://stackoverflow.com/questions/66618136/persistent-service-worker-in-chrome-extension]
 
-# 3월, 크롬 스토어에 배포 준비 및 버그 수정
+**3월, 크롬 스토어에 배포 준비 및 버그 수정**
 
 제품 디테일에 박차를 가해야한다. 기존 로직에서 중복되는 값들을 모두 제거 하면서, 안정성을 높였다.
 

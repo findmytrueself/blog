@@ -1,12 +1,12 @@
 ---
 title: 'useCallback'
 author: '임훈'
-date: 2024-09-02T11:53:04+09:00
+date: 2024-04-02T11:53:04+09:00
 category: ['POSTS']
 tag: ['Frontend', 'React', 'useCallback']
 ---
 
-# 인트로
+**인트로**
 
 해당 궁금증을 해소 하기 전 배경에는, useEffect dependency 배열에 함수가 들어가는 상황에 대해서 공부하고 있던 시점이다.
 
@@ -14,7 +14,7 @@ tag: ['Frontend', 'React', 'useCallback']
 
 그렇다면 함수를 props로 받아올 땐 어떤가? 고민해보았다.
 
-## 함수가 의존성 배열에 들어가는 이유
+**함수가 의존성 배열에 들어가는 이유**
 
 리액트 컴포넌트가 렌더링될 때마다 함수는 다시 생성된다.
 
@@ -22,7 +22,7 @@ tag: ['Frontend', 'React', 'useCallback']
 
 따라서, 의존성 배열에 함수가 포함되면 그 함수가 매 렌더링마다 재생성될 때마다 useEffect가 다시 실행된다.
 
-### useCallback을 사용 할 때 예제
+**useCallback을 사용 할 때 예제**
 
 ```js
 import React, { useState, useEffect, useCallback } from 'react'
@@ -61,7 +61,7 @@ function SearchComponent() {
 export default SearchComponent
 ```
 
-### useCallback을 사용하지 않을 때 예제
+**useCallback을 사용하지 않을 때 예제**
 
 ```js
 import React, { useState, useEffect } from 'react'
@@ -100,7 +100,7 @@ function SearchComponent() {
 export default SearchComponent
 ```
 
-## 차이점
+**차이점**
 
 1. 함수 생성 및 메모리 사용
 
@@ -122,7 +122,7 @@ export default SearchComponent
 
 - useCallback을 사용하지 않으면 fetchData 함수가 매번 새로 생성되고, 이로 인해 만약 다른 의존성을 관리하는 부분이 있다면, 의도치 않게 불필요한 리렌더링이 발생할 수 있습니다.
 
-## useCallback을 쓰는 상황
+**useCallback을 쓰는 상황**
 
 1. 복잡한 컴포넌트
 
@@ -142,7 +142,7 @@ export default SearchComponent
 
 이러한 상황에서는 컴포넌트가 효율적으로 동작하지 않으면 사용자 경험이 저하될 수 있으므로, 코드의 최적화나 리액트의 성능 관련 기능들을 활용하는 것이 중요합니다.
 
-## 결론
+**결론**
 
 - useCallback을 사용하지 않는 경우: useEffect 내부에서 직접 함수를 정의하고 실행하면, 해당 함수는 의존성 배열에 포함된 값이 변경될 때마다 새로 생성되며 메모리와 성능에 영향을 미칠 수 있습니다. 하지만 간단한 상황에서는 별다른 문제가 없을 수 있습니다.
 
