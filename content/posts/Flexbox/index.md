@@ -3,7 +3,7 @@ title: 'FlexBox'
 author: '임훈'
 date: 2024-02-27T17:26:35+09:00
 category: ['POSTS']
-tag: ['css', 'flexbox']
+tags: ['CSS']
 ---
 
 **flex-basis**

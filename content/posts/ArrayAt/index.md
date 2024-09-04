@@ -3,7 +3,7 @@ title: 'Array.at과 Array[idx]의 차이'
 author: '임훈'
 date: 2024-08-02T11:53:04+09:00
 category: ['POSTS']
-tag: ['Algorithm', 'Javascript', 'Programmers']
+tags: ['Algorithm', 'Javascript', 'Programmers']
 ---
 
 **인트로**

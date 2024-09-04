@@ -1,23 +1,26 @@
 baseURL = "https://findmytrueself.github.io/"
 languageCode = "en-us"
 title = "Hun's Blog ✍️"
-paginate = 5
 theme = "archie"
+copyright = "© Im Hun"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
 enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
 buildExpired = false
-pygmentsUseClasses = true
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = false
-googleAnalytics = "UA-123-45"
-relativeURLs = true
-canonifyURLs = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
 [minify]
   disableXML = true
   minifyOutput = true
 
 [params]
+  mode="auto"
   author = { name = "Im Hun" }
   defaultTheme = "auto"
   title = "Hun's Blog"
@@ -72,6 +75,12 @@ canonifyURLs = true
   identifier = "LIFE"
   name = "LIFE"
   url = "/life"
+  weight = 30
+
+[[menu.main]]
+  identifier = "TAGS"
+  name = "TAGS"
+  url = "/tags"
   weight = 30
 
 [[menu.main]]

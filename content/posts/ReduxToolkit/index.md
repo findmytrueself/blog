@@ -3,7 +3,7 @@ title: "리덕스툴킷 찍먹하기"
 author: "임훈"
 date: 2022-05-19T16:53:04+09:00
 category: ["POSTS"]
-tag: ["Frontend", "React", "Redux"]
+tags: ["Frontend", "React", "Redux"]
 ---
 
 **인트로**

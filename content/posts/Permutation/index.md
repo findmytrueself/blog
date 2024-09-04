@@ -3,7 +3,7 @@ title: '순열(Permutation)'
 author: '임훈'
 date: 2024-09-02T11:53:04+09:00
 category: ['POSTS']
-tag: ['Algorithm', 'Javascript', 'Programmers', 'Math']
+tags: ['Algorithm', 'Javascript', 'Programmers', 'Math']
 ---
 
 **인트로**
@@ -21,15 +21,11 @@ tag: ['Algorithm', 'Javascript', 'Programmers', 'Math']
 즉, 주어진 n개의 원소를 모두 사용하여 만들 수 있는 가능한 모든 순서의 조합을 말합니다.
 
 **순열의 특징**
-
 - 순열은 순서가 중요합니다. 즉, {1, 2, 3}과 {3, 2, 1}은 서로 다른 순열로 취급됩니다.
-
 - n개의 원소로 만들 수 있는 순열의 개수는 n! (n 팩토리얼)로 계산됩니다. 예를 들어, 3개의 원소가 있을 때 순열의 개수는 3! = 3 × 2 × 1 = 6개입니다.
 
 **순열의 활용**
-
 - 모든 가능한 순서를 고려해야 할 때 (예: 일정을 짜는 문제)
-
 - 경우의 수를 모두 나열하여 최적의 선택을 해야 할 때 (예: 최단 경로 찾기)
 
 **JS 함수**

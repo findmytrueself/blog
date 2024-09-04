@@ -3,9 +3,8 @@ title: 'React Query 정리'
 author: '임훈'
 date: 2023-01-12T13:53:35+09:00
 category: ['POSTS']
-tag: ['javascript', 'react', '비동기통신', '리액트에서 서버와 잘 통신하기']
+tags: ['Javascript', 'React', '비동기','상태관리']
 ---
-
 - 특정한 키를 통해 데이터를 관리하므로, 중복 호출이 될 때, 한번만 호출 하므로 성능에 좋다.
 
 ex) custom hook을 통해, fetch문을 만들어, 사용하게 되면, 사용 될 때 마다 호출을 하기 때문에, 같은 데이터라도 불필요한 호출을 하게 된다.
@@ -40,7 +39,6 @@ const Products = () => {
   })
 }
 ```
-
 - checked 상태가 변화 할 때 fetch요청을 한다.
 
 **문제점**

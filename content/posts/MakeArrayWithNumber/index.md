@@ -3,7 +3,7 @@ title: 'N개의 숫자의 배열 만들기'
 author: '임훈'
 date: 2024-06-02T11:53:04+09:00
 category: ['POSTS']
-tag: ['Algorithm', 'Javascript', 'Programmers']
+tags: ['Algorithm', 'Javascript', 'Programmers']
 ---
 
 **인트로**
