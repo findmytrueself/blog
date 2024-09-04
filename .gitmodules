@@ -8,4 +8,4 @@
 [submodule "themes/archie"]
 	path = themes/archie
 	url = https://github.com/athul/archie.git
-	branch = master
+	branch = main
