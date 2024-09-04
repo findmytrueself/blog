@@ -1,0 +1,76 @@
+baseURL: http://findmytrueself.github.io/
+languageCode: en-us
+title: Hun's Blog ✍️
+paginate: 5
+theme: 'archie'
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+pygmentsUseClasses: true
+defaultContentLanguage: 'en'
+defaultContentLanguageInSubdir: false
+googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+menu:
+  main:
+    - identifier: POSTS
+      name: POSTS
+      url: /posts
+      weight: 30
+    - identifier: LIFE
+      name: LIFE
+      url: /life
+      weight: 30
+    - identifier: RESUME
+      name: RESUME
+      url: '/pdfs/3년차_프론트엔드_임훈.pdf'
+params:
+  author: 
+    name: Im Hun
+  defaultTheme: auto
+  title: Hun's Blog
+  description: '프론트엔드 개발자 성장기'
+  keywords: [Blog, Portfolio, PaperMod]
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: true
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+  homeInfoParams:
+    Title: "안녕하세요. \U0001F44B"
+    Content: 프론트엔드 개발자 임훈 입니다 :)
+
+  socialIcons:
+    - name: github
+      url: 'https://github.com/findmytrueself'
+    - name: instagram
+      url: 'https://instagram.com/instant.coffee_'
+
+  analytics:
+    google:
+      SiteVerificationTag: 'XYZabc'
+    bing:
+      SiteVerificationTag: 'XYZabc'
+    yandex:
+      SiteVerificationTag: 'XYZabc'
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ['title', 'permalink', 'summary', 'content']

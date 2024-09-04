@@ -1,6 +1,6 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/findmytrueself/hun.github.io.git
+	url = https://github.com/findmytrueself/findmytrueself.github.io.git
 	branch = main
 [submodule "themes/hugo-embed-pdf-shortcode"]
 	path = themes/hugo-embed-pdf-shortcode
