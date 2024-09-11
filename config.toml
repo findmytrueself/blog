@@ -21,6 +21,7 @@ buildExpired = false
 
 [params]
   mode="toggle"
+  useCDN=true
   author = { name = "Im Hun" }
   defaultTheme = "auto"
   title = "Hun's Blog"
