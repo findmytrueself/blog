@@ -20,7 +20,7 @@ buildExpired = false
   minifyOutput = true
 
 [params]
-  mode="auto"
+  mode="toggle"
   author = { name = "Im Hun" }
   defaultTheme = "auto"
   title = "Hun's Blog"
@@ -43,11 +43,11 @@ buildExpired = false
     Title = "안녕하세요. 👋"
     Content = "프론트엔드 개발자 임훈 입니다 :)"
 
-  [[params.socialIcons]]
+  [[params.social]]
   name = "github"
   url = "https://github.com/findmytrueself"
 
-  [[params.socialIcons]]
+  [[params.social]]
   name = "instagram"
   url = "https://instagram.com/instant.coffee_"
 
