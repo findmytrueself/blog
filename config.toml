@@ -22,8 +22,6 @@ buildExpired = false
 [params]
   mode="toggle"
   useCDN=true
-  mathjax = true
-	katex = true
   author = { name = "Im Hun" }
   defaultTheme = "auto"
   title = "Hun's Blog"
