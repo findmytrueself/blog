@@ -1,6 +1,8 @@
 ---
 title: '리액트에서 이미지 마스킹하기'
 date: 2022-05-30T18:26:25+09:00
+category: ['POSTS']
+tags: ['Javascript', 'React']
 ---
 
 ```tsx

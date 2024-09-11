@@ -48,9 +48,7 @@ const Products = () => {
 **React Query의 중요한점**
 
 React Query는 공격적으로 설정되어있지만, 잘 분별 하게도 설정되어있다. 이러한 점은 잘모르는 뉴비들에게 배우기 어렵고 디버깅하기 어렵게 설정되어있다.
-
 - `useQuery`, `useInfiniteQuery`는 기본적으로 stale한 캐시데이터로 간주된다. (stale : 죽은 상태)
-
 - `staleTime`이라는 옵션을 전역적으로 설정해주므로써 컨트롤 할 수 있다.
   : `staleTime`이 설정되어 있는 동안에는 캐싱화된 query 데이터를 refetch하지 않을 것이다.
 
@@ -58,7 +56,6 @@ React Query는 공격적으로 설정되어있지만, 잘 분별 하게도 설�
   2. The window is refocused
   3. The network is reconnected
   4. The query is optionally configured with a refetch interval
-
 - refetch가 내 의도와 상관없이 될 때는, window가 focus가 될 때를 의심해보자
 
 1.  `refetchOnWindowFocus`기능이 기본값으로 켜져있기 때문에 발생한다. dev 환경일 때, devtools를 사용하게 되면, 또한 window를 왔다갔다 하기 때문에, refetch가 계속해서 일어나게 된다.
