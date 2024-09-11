@@ -3,7 +3,7 @@ title: '순열(Permutation)'
 author: '임훈'
 date: 2024-09-02T11:53:04+09:00
 category: ['POSTS']
-tags: ['Algorithm', 'Javascript', 'Programmers', 'Math']
+tags: ['Algorithm', 'Javascript']
 ---
 
 **인트로**

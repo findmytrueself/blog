@@ -3,7 +3,7 @@ title: 'Set을 사용하는 배열'
 author: '임훈'
 date: 2024-09-06T11:53:04+09:00
 category: ['POSTS']
-tags: ['Algorithm', 'Javascript', 'Programmers']
+tags: ['Algorithm', 'Javascript']
 ---
 **Set의 사용**
 

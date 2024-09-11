@@ -3,7 +3,7 @@ title: '리액트에서의 클로저'
 author: '임훈'
 date: 2024-09-11T13:53:35+09:00
 category: ['POSTS']
-tags: ['Javascript', 'React', '클로저', 'Closure']
+tags: ['Javascript', 'React']
 ---
 **인트로**
 

@@ -3,7 +3,7 @@ title: 'useCallback'
 author: '임훈'
 date: 2024-04-02T11:53:04+09:00
 category: ['POSTS']
-tags: ['Frontend', 'React']
+tags: ['Javascript', 'React']
 ---
 
 **인트로**

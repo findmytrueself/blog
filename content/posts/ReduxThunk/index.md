@@ -3,7 +3,7 @@ title: 'Redux Thunk 정리'
 author: '임훈'
 date: 2022-12-23T13:53:35+09:00
 category: ['POSTS']
-tags: ['Javascript', 'React', '비동기', '상태관리']
+tags: ['Javascript', 'React']
 ---
 
 1. createAsyncThunk는 비동기 작업을 처리하는 Action을 만들어준다.

@@ -2,7 +2,7 @@
 title: 'React Custom hooks 정확한 이해'
 author: '임훈'
 date: 2023-01-10T18:22:35+09:00
-category: ['React', 'Typescript', 'Frontend', 'Developer']
+category: ['React', 'Javascript']
 ---
 
 **인트로**
