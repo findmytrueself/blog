@@ -44,11 +44,11 @@ buildExpired = false
     Title = "안녕하세요. 👋"
     Content = "프론트엔드 개발자 임훈 입니다 :)"
 
-  [[params.social]]
+  [[Params.Social]]
   name = "github"
   url = "https://github.com/findmytrueself"
 
-  [[params.social]]
+  [[Params.Social]]
   name = "instagram"
   url = "https://instagram.com/instant.coffee_"
 
