@@ -45,11 +45,13 @@ buildExpired = false
     Content = "프론트엔드 개발자 임훈 입니다 :)"
 
   [[Params.Social]]
-  name = "github"
+  name = "GitHub"
+  icon = "github"
   url = "https://github.com/findmytrueself"
 
   [[Params.Social]]
-  name = "instagram"
+  name = "Instagram"
+  icon = "instagram"
   url = "https://instagram.com/instant.coffee_"
 
   [params.analytics]
