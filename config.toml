@@ -20,8 +20,8 @@ buildExpired = false
   minifyOutput = true
 
 [params]
-  mode="toggle"
-  useCDN=true
+  mode = "toggle"
+  useCDN = true
   author = { name = "Im Hun" }
   defaultTheme = "auto"
   title = "Hun's Blog"
