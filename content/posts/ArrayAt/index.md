@@ -5,9 +5,6 @@ date: 2024-08-02T11:53:04+09:00
 category: ['POSTS']
 tags: ['Algorithm', 'Javascript']
 ---
-
-**인트로**
-
 `Array.at(idx)`은 `es2022`부터 등장한 메소드이다.
 
 기존 방식의 `Array[idx]`과 어떤 차이가 있는지 알아보자.

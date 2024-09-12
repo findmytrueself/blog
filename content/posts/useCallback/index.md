@@ -5,9 +5,6 @@ date: 2024-04-02T11:53:04+09:00
 category: ['POSTS']
 tags: ['Javascript', 'React']
 ---
-
-**인트로**
-
 해당 궁금증을 해소 하기 전 배경에는, useEffect dependency 배열에 함수가 들어가는 상황에 대해서 공부하고 있던 시점이다.
 
 보통 커스텀 훅을 만들 때에는 해당 훅 컴포넌트의 props에 상태 값을 받아오고, 그 상태 값을 useEffect 내부 dependency배열에 넣어 동작을 처리 한다.
