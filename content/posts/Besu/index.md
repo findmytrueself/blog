@@ -25,9 +25,7 @@ Besu는 EVM을 지원하는 오픈소스이다. 자체 네트워크를 구성 �
 
 ### Besu 프라이빗 네트워크 구성도
 ![structure](images/structure1.webp)
-
 * 퍼블릭 이더리움과 연결 되지 않는 독립적인 네트워크를 구성하여, 거래의 프라이버시를 유지 및 트랜잭션 처리를 한다.
-
 * 주로 QBFT, IBFT2.0, Clique 등의 합의 알고리즘을 사용한다.
 
 **합의 알고리즘 비교**
@@ -62,7 +60,11 @@ Besu는 EVM을 지원하는 오픈소스이다. 자체 네트워크를 구성 �
 
 *하이퍼레저 베수와 쿼럼의 Use cases*
 [LACChain](https://www.coindesk.com/business/2021/04/08/citi-completes-cross-border-payments-pilot-using-lacchain/)
+
 [RTI Blockchain](https://www.hyperledger.org/learn/webinars/hyperledger-in-depth-an-hour-with-ledger-leopard-supply-chain-traceability)
+
 [Poste Italiane](https://www.hyperledger.org/case-studies/posteitaliane-case-study)
+
 [Onyx Digital Assets](https://www.jpmorgan.com/onyx/content-hub.htm)
+
 [Synaptic Health Alliance](https://newsroom.statefarm.com/blockchain-solution-solves-state-farm-usaa-subrogation-challenge/)
