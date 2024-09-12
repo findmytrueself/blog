@@ -16,7 +16,7 @@ tags: ['Blockchain', 'Ethereum']
 
 어떤 환경 내에서도 불변성, 투명성이 필요하다. 그래서 특정 환경일때, DB를 사용하지 않고, 이러한 장점이 있는 프라이빗 블록체인을 사용한다.
 
-**Hyperledger Besu**
+## Hyperledger Besu
 
 Besu는 EVM을 지원하는 오픈소스이다. 자체 네트워크를 구성 할 수 있는 프라이빗 블록체인 및 이더리움과 연동가능한 퍼블릭 네트워크 구성까지 가능하다.
 
@@ -50,6 +50,7 @@ Besu는 EVM을 지원하는 오픈소스이다. 자체 네트워크를 구성 �
 
 
 *Reference*
+
 <https://usa.visa.com/solutions/crypto/enterprise-blockchain.html>
 
 <https://blog.web3labs.com/a-comparison-of-ethereum-clients>
@@ -59,6 +60,7 @@ Besu는 EVM을 지원하는 오픈소스이다. 자체 네트워크를 구성 �
 <https://www.hyperledger.org/blog/why-hyperledger-besu-is-a-top-choice-for-financial-use-cases>
 
 *하이퍼레저 베수와 쿼럼의 Use cases*
+
 [LACChain](https://www.coindesk.com/business/2021/04/08/citi-completes-cross-border-payments-pilot-using-lacchain/)
 
 [RTI Blockchain](https://www.hyperledger.org/learn/webinars/hyperledger-in-depth-an-hour-with-ledger-leopard-supply-chain-traceability)
