@@ -10,6 +10,8 @@ enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
 buildExpired = false
+disqusShortname = "https-findmytrueself-github-io"
+paginate = 3
 
 [taxonomies]
   category = "categories"
@@ -44,12 +46,12 @@ buildExpired = false
     Title = "안녕하세요. 👋"
     Content = "프론트엔드 개발자 임훈 입니다 :)"
 
-  [[Params.Social]]
+  [[params.social]]
   name = "GitHub"
   icon = "github"
   url = "https://github.com/findmytrueself"
 
-  [[Params.Social]]
+  [[params.social]]
   name = "Instagram"
   icon = "instagram"
   url = "https://instagram.com/instant.coffee_"
