@@ -1,7 +1,7 @@
 ---
 title: '합의 알고리즘'
 author: '임훈'
-date: 2024-09-12T13:30:13+09:00
+date: 2024-09-11T13:30:13+09:00
 category: ['POSTS']
 tags: ['Blockchain']
 ---

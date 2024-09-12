@@ -1,7 +1,7 @@
 ---
 title: 'Ethereum'
 author: '임훈'
-date: 2024-09-12T17:30:13+09:00
+date: 2024-09-11T17:30:13+09:00
 category: ['POSTS']
 tags: ['Blockchain', 'Ethereum']
 ---
