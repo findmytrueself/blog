@@ -55,7 +55,7 @@ manifest 버전에 올라 가면서, chrome runtime 객체의 구조가 바뀌�
 
 수많은 검색을 한 결과, background를 살릴 수 있는 방법을 찾았고, 적용 했다.
 
-[Persistent Service Worker in Chrome Extension][https://stackoverflow.com/questions/66618136/persistent-service-worker-in-chrome-extension]
+[Persistent Service Worker in Chrome Extension](https://stackoverflow.com/questions/66618136/persistent-service-worker-in-chrome-extension)
 
 **3월, 크롬 스토어에 배포 준비 및 버그 수정**
 
