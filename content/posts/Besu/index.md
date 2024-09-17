@@ -4,6 +4,8 @@ author: '임훈'
 date: 2024-09-12T15:30:13+09:00
 category: ['POSTS']
 tags: ['Blockchain', 'Ethereum']
+og_image: "/images/og_image.webp" 
+keywords: ['Blockchain', 'Ethereum']
 ---
 
 기업에서 사용 될 이더리움 기반 프라이빗 블록체인 대표적으로 Hyperledger Besu에 대해 알아보자.

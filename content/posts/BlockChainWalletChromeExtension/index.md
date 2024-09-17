@@ -4,6 +4,8 @@ author: '임훈'
 date: 2023-03-21T13:30:13+09:00
 category: ['POSTS']
 tags: ['Javascript', 'Web3', 'Blockchain']
+og_image: "/images/og_image.webp" 
+keywords: ['Blockchain', 'Javascript', 'Web3']
 ---
 **9월, 개발 세팅 및 코드 분석**
 
