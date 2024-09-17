@@ -13,6 +13,9 @@ buildExpired = false
 disqusShortname = "https-findmytrueself-github-io"
 paginate = 3
 
+[outputs]
+  home = ["HTML", "RSS", "Sitemap"]
+
 [taxonomies]
   category = "categories"
   tag = "tags"
@@ -24,11 +27,12 @@ paginate = 3
 [params]
   mode = "toggle"
   useCDN = true
-  author = { name = "Im Hun" }
   defaultTheme = "auto"
   title = "Hun's Blog"
   description = "프론트엔드 개발자 성장기"
   keywords = ["Blog", "Portfolio", "archie"]
+  author = "Im Hun"
+  og_image = "/images/og_image.webp"
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
