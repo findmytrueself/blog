@@ -1,7 +1,9 @@
 baseURL = "https://findmytrueself.github.io/"
-languageCode = "en-us"
+languageCode = "en"
+paginate = 3
 title = "Hun's Blog ✍️"
-theme = "archie"
+theme = "hugo-theme-tailwind"
+author = "Im Hun"
 copyright = "© Im Hun"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
@@ -11,7 +13,9 @@ buildDrafts = false
 buildFuture = false
 buildExpired = false
 disqusShortname = "https-findmytrueself-github-io"
-paginate = 3
+
+[markup]
+  _merge = "deep"
 
 [outputs]
   home = ["HTML", "RSS", "Sitemap"]
@@ -24,15 +28,22 @@ paginate = 3
   disableXML = true
   minifyOutput = true
 
+[params.header]
+    logo = "/images/gamer.png"
+
+[params.footer]
+    since = 2024
+    poweredby = false
+
+
 [params]
   mode = "toggle"
   useCDN = true
-  defaultTheme = "auto"
-  title = "Hun's Blog"
-  description = "프론트엔드 개발자 성장기"
+  defaultTheme = "auto" 
+  subtitle = "프론트엔드 개발자 성장기"
   keywords = ["Blog", "Portfolio", "archie"]
   author = "Im Hun"
-  og_image = "/images/og_image.webp"
+  og_image = "/images/blog.avif"
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
@@ -84,12 +95,6 @@ paginate = 3
   identifier = "LIFE"
   name = "LIFE"
   url = "/life"
-  weight = 30
-
-[[menu.main]]
-  identifier = "TAGS"
-  name = "TAGS"
-  url = "/tags"
   weight = 30
 
 [[menu.main]]
