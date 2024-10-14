@@ -4,6 +4,8 @@ author: '임훈'
 date: 2024-10-14T13:53:35+09:00
 category: ['POSTS']
 tags: ['Javascript', 'Algorithm']
+og_image: "/images/gamer.png" 
+keywords: ['Javascript', 'Algorithm']
 ---
 
 가고 싶은 회사 라이브 코딩테스트에서 이 문제가 그대로 나왔다. 

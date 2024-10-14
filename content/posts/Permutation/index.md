@@ -4,6 +4,8 @@ author: '임훈'
 date: 2024-09-02T11:53:04+09:00
 category: ['POSTS']
 tags: ['Algorithm', 'Javascript']
+og_image: "/images/gamer.png" 
+keywords: ['Javascript', 'Algorithm']
 ---
 순열은 고등학교 수학 때 배우는 개념이다.
 

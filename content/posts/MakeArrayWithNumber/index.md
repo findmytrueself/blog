@@ -4,6 +4,8 @@ author: '임훈'
 date: 2024-06-02T11:53:04+09:00
 category: ['POSTS']
 tags: ['Algorithm', 'Javascript']
+og_image: "/images/gamer.png" 
+keywords: ['Javascript', 'Algorithm']
 ---
 코딩테스트 중에 숫자 N이 주어졌을 때 N개의 배열을 만들어서 forEach를 하고 싶었다.
 

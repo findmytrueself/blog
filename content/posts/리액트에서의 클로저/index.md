@@ -4,6 +4,8 @@ author: '임훈'
 date: 2024-09-11T13:53:35+09:00
 category: ['POSTS']
 tags: ['Javascript', 'React']
+og_image: "/images/gamer.png" 
+keywords: ['Javascript', 'React']
 ---
 
 클로저는 자바스크립트에서 기본이 되는 아주 중요한 개념이다.

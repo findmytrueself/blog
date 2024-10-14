@@ -3,6 +3,8 @@ title: 'React Custom hooks 정확한 이해'
 author: '임훈'
 date: 2023-01-10T18:22:35+09:00
 category: ['React', 'Javascript']
+og_image: "/images/gamer.png" 
+keywords: ['Javascript', 'React']
 ---
 그동안 리액트를 사용해 오면서, 기본 hooks를 이용하여 대부분의 로직을 수행했다. 하지만 반복되는 코드에 대해 항상 어떻게 하면 재사용성을 늘릴 수 있을까 고민 했었다.
 

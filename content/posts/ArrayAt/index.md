@@ -4,6 +4,8 @@ author: '임훈'
 date: 2024-08-02T11:53:04+09:00
 category: ['POSTS']
 tags: ['Algorithm', 'Javascript']
+og_image: "/images/gamer.png" 
+keywords: ['Javascript', 'Algorithm']
 ---
 `Array.at(idx)`은 `es2022`부터 등장한 메소드이다.
 

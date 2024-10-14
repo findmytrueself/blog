@@ -4,6 +4,8 @@ author: "임훈"
 date: 2022-05-19T16:53:04+09:00
 category: ["POSTS"]
 tags: ["React"]
+og_image: "/images/gamer.png" 
+keywords: ['React']
 ---
 지금껏 프로젝트를 하면서, 리덕스를 사용하여 상태관리를 해왔다.
 

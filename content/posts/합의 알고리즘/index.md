@@ -4,7 +4,7 @@ author: '임훈'
 date: 2024-09-12T13:30:13+09:00
 category: ['POSTS']
 tags: ['Blockchain']
-og_image: "/images/og_image.webp" 
+og_image: "/images/gamer.png" 
 keywords: ['Blockchain']
 ---
 ### 주요 합의 알고리즘 종류

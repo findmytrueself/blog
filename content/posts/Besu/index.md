@@ -4,7 +4,7 @@ author: '임훈'
 date: 2024-09-12T15:30:13+09:00
 category: ['POSTS']
 tags: ['Blockchain', 'Ethereum']
-og_image: "/images/og_image.webp" 
+og_image: "/images/gamer.png" 
 keywords: ['Blockchain', 'Ethereum']
 ---
 

@@ -4,6 +4,8 @@ author: '임훈'
 date: 2023-01-12T13:53:35+09:00
 category: ['POSTS']
 tags: ['Javascript', 'React']
+og_image: "/images/gamer.png" 
+keywords: ['Javascript', 'React']
 ---
 - 특정한 키를 통해 데이터를 관리하므로, 중복 호출이 될 때, 한번만 호출 하므로 성능에 좋다.
 

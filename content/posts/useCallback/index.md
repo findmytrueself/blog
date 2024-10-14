@@ -4,6 +4,8 @@ author: '임훈'
 date: 2024-04-02T11:53:04+09:00
 category: ['POSTS']
 tags: ['Javascript', 'React']
+og_image: "/images/gamer.png" 
+keywords: ['Javascript', 'React']
 ---
 해당 궁금증을 해소 하기 전 배경에는, useEffect dependency 배열에 함수가 들어가는 상황에 대해서 공부하고 있던 시점이다.
 
