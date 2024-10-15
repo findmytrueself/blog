@@ -4,7 +4,7 @@ paginate = 3
 title = "Hun's Blog ✍️"
 theme = "tailwind"
 author = "Im Hun"
-copyright = "© Im Hun"
+copyright = "Im Hun"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
@@ -98,7 +98,7 @@ disqusShortname = "https-findmytrueself-github-io"
   weight = 30
 
 [[menu.main]]
-  identifier = "RESUME"
-  name = "RESUME"
+  identifier = "RESUME 📝"
+  name = "RESUME 📝"
   url = "/pdfs/3년차_프론트엔드_임훈.pdf"
   weight = 30

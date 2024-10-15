@@ -17,11 +17,10 @@ keywords: ['Javascript', 'Algorithm']
 ```js
 function solution(s) {
     let stack = [];
-    let arr = ['(','{','[']
     let obj = { '(': ')', '{':'}', '[':']' };
     
     for (let i = 0; i < s.length; i++) {
-        if (arr.includes(s[i])) { 
+        if (Object.keys(obj).includes(s[i])) { 
             stack.push(s[i]); // 좌측의 괄호만 stack에 넣는다.
         } else {
             let last = stack.pop(); // stack 배열의 가장 마지막을 빼서
