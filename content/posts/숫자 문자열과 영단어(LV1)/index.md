@@ -1,7 +1,7 @@
 ---
 title: '숫자 문자열과 영단어(LV1)'
 author: '임훈'
-date: 2024-10-16T01:53:04+09:00
+date: 2024-10-16T01:40:04+09:00
 category: ['POSTS']
 tags: ['Algorithm', 'Javascript']
 og_image: "/images/gamer.png" 
