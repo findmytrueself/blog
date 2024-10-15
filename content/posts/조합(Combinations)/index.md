@@ -8,7 +8,6 @@ og_image: "/images/gamer.png"
 keywords: ['Javascript', 'Algorithm']
 ---
 
-
 ```js
 function getCombinations(arr, selectNumber) {
     const results = [];
