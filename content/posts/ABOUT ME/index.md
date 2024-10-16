@@ -26,6 +26,8 @@ Aergo  |  2023.01 – present
 - `Aergo Scan` UI 개선 및 개발자 인터렉티브(Read & Write) 기능 개발 ( 📎  [배포](https://mainnet.aergoscan.io/) | [깃헙](https://github.com/aergoio/aergoscan_v2_frontend)  )
     
     - 스캐너에서 스마트 컨트랙트를 통해 사용자가 직접 트랜잭션을 실행하고 컨트랙트 데이터를 조회할 수 있는 기능 구현
+
+    - Internal Tx 조회 기능 추가 및 원본 source code 조회 기능 추가
     
     #Typescript #Vuejs #Vuex
     
