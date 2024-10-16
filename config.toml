@@ -85,20 +85,33 @@ disqusShortname = "https-findmytrueself-github-io"
     minMatchCharLength = 0
     keys = ["title", "permalink", "summary", "content"]
 
+
 [[menu.main]]
-  identifier = "POSTS"
-  name = "POSTS"
-  url = "/posts"
+  identifier = "BLOCKCHAIN"
+  name = "BLOCKCHAIN"
+  url = "/blockchain"
   weight = 30
 
 [[menu.main]]
-  identifier = "LIFE"
-  name = "LIFE"
-  url = "/life"
+  identifier = "FRONTEND"
+  name = "FRONTEND"
+  url = "/frontend"
   weight = 30
 
 [[menu.main]]
-  identifier = "RESUME 📝"
-  name = "RESUME 📝"
+  identifier = "ALGORITHM"
+  name = "ALGORITHM"
+  url = "/algorithm"
+  weight = 30
+
+[[menu.main]]
+  identifier = "DIARY"
+  name = "DIARY"
+  url = "/diary"
+  weight = 30
+
+[[menu.main]]
+  identifier = "Résumé.pdf"
+  name = "Résumé.pdf"
   url = "/pdfs/3년차_프론트엔드_임훈.pdf"
   weight = 30
