@@ -61,15 +61,25 @@ disqusShortname = "https-findmytrueself-github-io"
     Title = "안녕하세요. 👋"
     Content = "프론트엔드 개발자 임훈 입니다 :)"
 
-  [[params.social]]
-  name = "GitHub"
-  icon = "github"
-  url = "https://github.com/findmytrueself"
 
-  [[params.social]]
-  name = "Instagram"
-  icon = "instagram"
-  url = "https://instagram.com/instant.coffee_"
+
+  [[params.social_media.items]]
+  enabled = true
+  title = "GitHub"
+  icon = "brand-github"
+  link = "https://github.com/findmytrueself"
+
+  [[params.social_media.items]]
+  enabled = true
+  title = "Instagram"
+  icon = "brand-instagram"
+  link = "https://instagram.com/instant.coffee_"
+
+  [[params.social_media.items]]
+  enabled = true
+  title = "LinkedIn"
+  icon = "brand-linkedin"
+  link = "https://www.linkedin.com/in/findmytrueself"
 
   [params.analytics]
     google = { SiteVerificationTag = "XYZabc" }
