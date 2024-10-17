@@ -130,3 +130,7 @@ keywords: ['Blockchain', 'Ethereum']
 | **사용 사례**| 피어투피어(Peer-to-Peer) 전송, 지불 및 토큰 전송. | DeFi 운영, 토큰 스왑, 게임 거래 및 계약 상호 작용.    |
 | **복잡성**   | 일반적으로 단순합니다.                         | 복잡한 논리와 자동화된 프로세스가 포함될 수 있습니다.   |
 | **기록**     | 이더리움 블록체인에 직접 기록됩니다.             | 스마트 계약 실행 중의 맥락에서 기록됩니다.             |
+
+*Reference*
+
+<https://www.geeksforgeeks.org/normal-transactions-vs-internal-transactions-in-etherscan/>
