@@ -3,7 +3,7 @@
 	url = https://github.com/anvithks/hugo-embed-pdf-shortcode.git
 [submodule "public"]
 	path = public
-	url = https://github.com/findmytrueself/findmytrueself.github.io
+	url = https://github.com/findmytrueself/findmytrueself.github.io.git
 [submodule "themes/tailwind"]
 	path = themes/tailwind
 	url = https://github.com/tomowang/hugo-theme-tailwind.git
