@@ -87,7 +87,7 @@ disqusShortname = "https-findmytrueself-github-io"
     [[languages.en.menu.main]]
     identifier = "Résumé.pdf"
     name = "Résumé.pdf"
-    url = "/pdfs/3years_Web3_Frontend_Developer__Im_Hun.pdf"
+    url = "/pdfs/3years_Frontend_Developer__Im_Hun.pdf"
     weight = 5
 
 [markup]

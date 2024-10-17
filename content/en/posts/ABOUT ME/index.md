@@ -4,83 +4,83 @@ author: '임훈'
 date: 2024-10-16T10:53:35+09:00
 ---
 
-# 3년차 Web3 프론트엔드 개발자 - 임훈
+# 3rd Year Web3 Frontend Developer - Hun Im
 
 ## Experience
 
 **Web3 Frontend Developer**
 Aergo  |  2023.01 – present
 
-**아르고 블록체인에서 운영 중인 프론트엔드 오픈소스 기능 개발 및 유지 보수를 담당.**
+**Responsible for developing and maintaining frontend open-source functionalities for Aergo Blockchain.**
 
-- `Aergo Connect 3.0` 크롬익스텐션 개인지갑 개발 및 배포 ( 📎  [배포](https://chromewebstore.google.com/detail/aergo-connect-30/mcijhnoalllmbiehiebonblllpimlnle) | [깃헙](https://github.com/aergoio/aergo-connect-3.0)  )
+- Developed the `Aergo Connect 3.0` Chrome extension personal wallet. ( 📎  [배포](https://chromewebstore.google.com/detail/aergo-connect-30/mcijhnoalllmbiehiebonblllpimlnle) | [깃헙](https://github.com/aergoio/aergo-connect-3.0)  )
     
-    - Manifest2 → Manifest3 마이그레이션
+    - Migrated from Manifest2 to Manifest3
     
-    - Multi Accounts 관리 및 Private Network 기능 추가
+    - Added Multi Accounts management and Private Network functionality
     
-    - Hardware Wallet Nano Ledger 기능 추가
+    - Integrated Hardware Wallet Nano Ledger support
     
     #Typescript #Vuejs #Vuex #Chrome Extension #Manifest3 #IndexedDb #ServiceWorker
     
-- `Aergo Scan` UI 개선 및 개발자 인터렉티브(Read & Write) 기능 개발 ( 📎  [배포](https://mainnet.aergoscan.io/) | [깃헙](https://github.com/aergoio/aergoscan_v2_frontend)  )
+- Improved UI and developed contracts interactive (Read & Write) features for `Aergo Scan`. ( 📎  [배포](https://mainnet.aergoscan.io/) | [깃헙](https://github.com/aergoio/aergoscan_v2_frontend)  )
     
-    - 스캐너에서 스마트 컨트랙트를 통해 사용자가 직접 트랜잭션을 실행하고 컨트랙트 데이터를 조회할 수 있는 기능 구현
+    - Implemented a feature that allows users to directly execute transactions and query contract data through smart contracts in the scanner.
 
-    - Internal Tx 조회 기능 추가 및 원본 source code 조회 기능 추가
+    - Added Internal Tx viewing feature and original source code viewing feature.
     
     #Typescript #Vuejs #Vuex
     
-- `Aergo Bridge` 아르고, 이더리움 브릿지 서비스와 어드민 개발 및 배포 ( 📎  [배포](https://bridge.aergo.io/)  )
+- Developed the `Aergo Bridge` service for Aergo and Ethereum bridge and admin. ( 📎  [배포](https://bridge.aergo.io/)  )
     
-    *- 오픈 4개월만에, 500만개 이상의 아르고 to 이더리움 브릿징 성공 (2024.09.13 기준)*
+    *- Successfully bridged over 5 million Aergo to Ethereum within 4 months of launch (as of September 13, 2024)*
     
     #Next.js(v14) #react-hook-form #react-query #wagmi
     
-- `Aergo SDK(Hera.js)` GRPC → GRPC JS 마이그레이션 ( 📎  [깃헙](https://github.com/aergoio/herajs)  )
+- Migrated `Aergo SDK (Hera.js)` from GRPC to GRPC JS. ( 📎  [깃헙](https://github.com/aergoio/herajs)  )
     
-    *- SDK가 최신 Node.js 버전과 호환되도록 업데이트*
+    *- Updated the SDK to be compatible with the latest version of Node.js*
     
 
 **Frontend Developer**
 Blocko  |  2022.01 – present
 
-**Web3 담당 및 서비스 UI 개발과 백엔드 API 연동**
+**Responsible for Web3 services and UI development, including backend API integration**
 
-- `GEMVERSE` - 앱토스 지갑 연동 및 개인 서명 기능 추가
+- `GEMVERSE` - Added Aptos wallet integration and personal signature feature.
     
-    - 서명 시, Serialize를 하여, 백엔드로 안전히 서명 전달하는 기능 구현
+    - Implemented a feature that securely sends signatures to the backend by serializing them during the signing process.
     
-- `Aergo Enterprise Manager` (기업용 프라이빗 블록체인) - 기능 개선 및 버그 수정
+- Improved features and fixed bugs for the enterprise private blockchain (`Aergo Enterprise Manager`)
     
-    - 체인, 노드 편집 기능 버그를 수정하고, 데이터를 최신 상태로 동기화
+    - Fixed bugs in the chain and node editing functionality and synchronized the data to the latest state
     
 
 ## Projects
 
 **•**  `Road To Interview` (21년 11월~4주)
 
-1. 개발자 기술면접 준비를 위해 스스로 연습할 수 있는 웹앱 ( 📎  [깃헙](https://github.com/codestates/road-to-interview) | [기획서](https://www.notion.so/18-KKAN-BU-Road-To-Interview-6ffa679db3d44ea3aa575adbbb187743?pvs=21)  )
+1. A web app designed for developers to practice technical interviews on their own. ( 📎  [깃헙](https://github.com/codestates/road-to-interview) | [기획서](https://www.notion.so/18-KKAN-BU-Road-To-Interview-6ffa679db3d44ea3aa575adbbb187743?pvs=21)  )
     
-    *[프론트엔드] Javascript, React, Emotion, Redux* 
+    *[Frontend] Javascript, React, Emotion, Redux* 
     
-    *[클라이언트배포] AWS(S3, Route53, Certificate Manager, CodePipeline, CloudFront)*
+    *[Client Deployment] AWS(S3, Route53, Certificate Manager, CodePipeline, CloudFront)*
 
-- WebRTC API를 이용하여, 영상 인터뷰페이지를 제작
-- 서버 크롤링 데이터를 이용하여, 개발자 구직공고 페이지 제작
-- 클라이언트 자동배포 및 PWA배포 설정
+- Created a video interview page using the WebRTC API
+- Developed a job listing page for developers using server-crawled data
+- Set up client auto-deployment and PWA deployment
 
 ## Education
 
-**코드스테이츠**  
+**CodeStates**  
 
-소프트웨어 엔지니어링 부트캠프 IM 29 수료
+Software Engineering Bootcamp IM 29 Completion
 
 2021.04 – 2021.11
 
-**중국전매대학(Communication University of China)**
+**Communication University of China**
 
-미디어 커뮤니케이션 학사 졸업
+Bachelor's Degree in Communication
 
 2015 – 2019
 
@@ -108,5 +108,5 @@ Blocko  |  2022.01 – present
 
 ## Contributions
 
-- 저는 Aergo 팀의 일원으로서 Aergo 오픈 소스 프로젝트에 기여하고 있습니다.
-- 3년 차 프론트엔드 개발자로서 React 생태계에서 개발을 하고 있습니다.
+- I contribute to Aergo open-source projects as a member of the Aergo team.
+- As a 3rd-year frontend developer, I develop within the React ecosystem.
