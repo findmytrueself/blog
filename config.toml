@@ -1,5 +1,7 @@
 baseURL = "https://findmytrueself.github.io/"
-languageCode = "en"
+languageCode = "ko"
+defaultContentLanguage = "ko"
+defaultContentLanguageInSubdir = true
 paginate = 3
 title = "Hun's Blog ✍️"
 theme = "tailwind"
@@ -14,11 +16,86 @@ buildFuture = false
 buildExpired = false
 disqusShortname = "https-findmytrueself-github-io"
 
+
+[languages]
+  [languages.ko]
+    languageName = "한국어"
+    weight = 1
+    contentDir = "content/ko"
+
+    [languages.ko.menu]
+    [[languages.ko.menu.main]]
+    identifier = "ALGORITHM"
+    name = "ALGORITHM"
+    url = "/ko/algorithm"
+    weight = 1
+
+    [[languages.ko.menu.main]]
+    identifier = "BLOCKCHAIN"
+    name = "BLOCKCHAIN"
+    url = "/ko/blockchain"
+    weight = 2
+
+    [[languages.ko.menu.main]]
+    identifier = "FRONTEND"
+    name = "FRONTEND"
+    url = "/ko/frontend"
+    weight = 3
+
+    [[languages.ko.menu.main]]
+    identifier = "DIARY"
+    name = "DIARY"
+    url = "/ko/diary"
+    weight = 4
+
+    [[languages.ko.menu.main]]
+    identifier = "Résumé.pdf"
+    name = "Résumé.pdf"
+    url = "/pdfs/3년차_프론트엔드_임훈.pdf"
+    weight = 5
+
+  [languages.en]
+    languageName = "English"
+    weight = 2
+    contentDir = "content/en"
+
+    [languages.en.menu]
+    [[languages.en.menu.main]]
+    identifier = "ALGORITHM"
+    name = "ALGORITHM"
+    url = "/en/algorithm"
+    weight = 1
+
+    [[languages.en.menu.main]]
+    identifier = "BLOCKCHAIN"
+    name = "BLOCKCHAIN"
+    url = "/en/blockchain"
+    weight = 2
+
+    [[languages.en.menu.main]]
+    identifier = "FRONTEND"
+    name = "FRONTEND"
+    url = "/en/frontend"
+    weight = 3
+
+    [[languages.en.menu.main]]
+    identifier = "DIARY"
+    name = "DIARY"
+    url = "/en/diary"
+    weight = 4
+
+    [[languages.en.menu.main]]
+    identifier = "Résumé.pdf"
+    name = "Résumé.pdf"
+    url = "/pdfs/3years_Web3_Frontend_Developer__Im_Hun.pdf"
+    weight = 5
+
 [markup]
   _merge = "deep"
 
 [outputs]
   home = ["HTML", "RSS", "Sitemap"]
+
 
 [taxonomies]
   category = "categories"
@@ -94,34 +171,3 @@ disqusShortname = "https-findmytrueself-github-io"
     threshold = 0.4
     minMatchCharLength = 0
     keys = ["title", "permalink", "summary", "content"]
-
-
-[[menu.main]]
-  identifier = "BLOCKCHAIN"
-  name = "BLOCKCHAIN"
-  url = "/blockchain"
-  weight = 30
-
-[[menu.main]]
-  identifier = "FRONTEND"
-  name = "FRONTEND"
-  url = "/frontend"
-  weight = 30
-
-[[menu.main]]
-  identifier = "ALGORITHM"
-  name = "ALGORITHM"
-  url = "/algorithm"
-  weight = 30
-
-[[menu.main]]
-  identifier = "DIARY"
-  name = "DIARY"
-  url = "/diary"
-  weight = 30
-
-[[menu.main]]
-  identifier = "Résumé.pdf"
-  name = "Résumé.pdf"
-  url = "/pdfs/3년차_프론트엔드_임훈.pdf"
-  weight = 30
