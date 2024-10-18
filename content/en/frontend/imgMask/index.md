@@ -1,5 +1,6 @@
 ---
-title: '리액트에서 이미지 마스킹하기'
+title: 'Image Masking in React'
+author: 'Im Hun'
 date: 2022-05-30T18:26:25+09:00
 category: ['POSTS']
 tags: ['Javascript', 'React']
@@ -9,7 +10,7 @@ keywords: ['Javascript', 'React']
 
 ```tsx
 <Button variant="contained" component="label">
-  아이콘 업로드
+  Upload Icon
   <input
     accept="image/*"
     multiple
@@ -20,7 +21,7 @@ keywords: ['Javascript', 'React']
 </Button>
 ```
 
-먼저, 업로드 버튼을 만들고, 모든이미지를 허용하고, file타입으로 input태그를 만든다.
+First, we create an upload button that accepts all images and creates an input tag of type file.
 
 ```tsx
 const handleUploadIcon = (e: ChangeEvent<HTMLInputElement>) => {
@@ -38,11 +39,11 @@ const handleUploadIcon = (e: ChangeEvent<HTMLInputElement>) => {
       image.src = e.target.result as string
       image.onload = () => {
         const base64Img = e.target.result as string
-        //   //! 아이콘 해쉬 변환
+        //   //! Convert icon to hash
         const hash = CryptoJS.SHA256(base64Img).toString()
         const file = dataURLtoFile(base64Img, 'MaskedImage.png')
         dispatch(setInfo(base64Img, 'base64Img'))
-        dispatch(setInfo(hash, '아이콘 추가'))
+        dispatch(setInfo(hash, 'Icon Added'))
         setFile(file)
       }
     }
@@ -50,7 +51,7 @@ const handleUploadIcon = (e: ChangeEvent<HTMLInputElement>) => {
 }
 ```
 
-makeImage함수로 이미지를 masking 그리고, dataURLtoFile 함수로 파일객체로 만들어준다.
+We use the `makeImage` function to mask the image and the `dataURLtoFile` function to create a file object.
 
 ```tsx
 useEffect(() => {
@@ -87,7 +88,7 @@ useEffect(() => {
 }, [icon, file])
 ```
 
-border가 바뀔때마다, 그리고 img가 바뀔때마다, masking 함수를 실행한다.
+The masking function is executed every time the border or image changes.
 
 ```ts
 /* eslint-disable func-names */
@@ -142,7 +143,7 @@ async function makeImage(
   const borderImg = await makeBorderImage(templateNum, borderColor)
   const borderAddedImage = await mergeImages(maskedImage, 0, 0, borderImg)
 
-  // blob 타입으로 리턴
+  // Return as blob type
   return borderAddedImage.toBlob()
 }
 
@@ -163,7 +164,7 @@ async function makeMaskImage(templateNumber: number): Promise<ImageJS> {
     xhr.send()
   })
 }
-// * 색칠.
+// * Coloring.
 async function makeBorderImage(
   templateNumber: number,
   borderColor: string
@@ -177,7 +178,7 @@ async function makeBorderImage(
   const border = maskedBorder.paintMasks(mask, { color: borderColor })
   return border
 }
-// * 이미지로드.
+// * Load image.
 async function loadBorderImage(templateNumber: number): Promise<ImageJS> {
   const borderMaskFile = lineURL[templateNumber]
   const borderUrl = `${borderMaskFile}`

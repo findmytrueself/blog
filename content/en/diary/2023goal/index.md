@@ -5,56 +5,55 @@ date: 2023-01-10T13:41:35+09:00
 category: ['LIFE']
 ---
 
-**커리어 성장**
+**Career Growth**
 
-제일 먼저 생각 나던 단어이다.
+This is the first word that comes to mind.
 
-개발자로 지내면서 가장 두려운건 정체되어있는 것이다.
+As a developer, the most frightening thing is to be stagnant.
 
-요즘 자꾸 그런 기분이 들어, 일단 블로그를 다시 살려, 꾸준히 작성하려고 한다.
+These days, I often feel that way, so I plan to revive my blog and write consistently.
 
-기존 노션에 작성되었던 블로그를 하나씩 수정하며, 옮겨 나가고,
+I will revise the existing blog entries I wrote in Notion one by one and migrate them,
+and I will refer to many new topics on Medium to make them my own.
 
-Medium의 새로운 주제의 글을 많이 참조하며, 내것으로 만들어야겠다.
+I also need to avoid writing code like an amateur; I should think more deeply and aim to write it cleanly.
 
-코드도 아마추어같이 작성하지 않아야하고, 좀더 깊이 생각하고, 깔끔하게 작성하는 것을 목표해야겠다.
+**Hobbies**
 
-**취미**
+There are many things I want to do, but while struggling through life and thinking about realistic problems, I naturally ended up only sticking to light hobbies I can do at home.
 
-사실 하고 싶은 건 많은데 아둥바둥 살아오며 이것저것 현실적인 문제를 생각하다 보니 자연스럽게 못하고, 가볍게 집에서 할 수 있는 취미만 고집하고 있었다.
+Many active hobbies require a car and money.
 
-많은 액티비티한 취미들은 차가 필요하고 돈이 필요하다.
+When my friend Gevin visited, I tried snowboarding for the first time, and it was super fun. I plan to snowboard occasionally as a new hobby.
 
-친구 게븐이 놀러왔을 때 스노우보드를 처음으로 타봤는데 완전 재밌었다. 앞으로 새로운 취미로써 종종 탈 생각이다.
+I can do it alone. I have a motorcycle, so I can go to a nearby ski resort (about 30 km away) to enjoy it! The problem is money.
 
-혼자는 가능하다. 나는 오토바이가 있기 때문에, 가까운 스키장(대략 30km)에 가서 즐길 수 있다! 문제는 돈.
+**Piano**
 
-**피아노**
+I have a digital piano that I bought two years ago. I believe that everyone should be able to play at least one instrument, and I hope to play the piano well.
 
-재작년에 사놓은 디지털 피아노가 있다. 악기 하나정도는 다룰줄 알아야지라는 마음이 있는데, 나는 피아노를 잘 치면 좋겠다.
+I learned piano without much thought when I was young, so I've forgotten all the theoretical aspects. Now, I memorize the entire score and practice until it becomes familiar to my hands.
 
-어릴 때 무작정 배운 피아노라 이론적인 부분 다 까먹고, 이제는 악보를 통째로 외워서 손에 익히는 방법으로 치고 있다.
+That’s why it’s very hard to start learning, and the practice method is quite laborious.
 
-그래서 처음 배우기가 너무 어렵고 연습 방법 또한 노가다이다.
+I think perseverance is essential in everything. My goal is to practice steadily, little by little.
 
-모든 일에는 끈기가 중요한 것 같다. 꾸준히 조금씩 해나가야 하는게 목표이다.
+**Money**
 
-**돈**
+By next year, I need to save over 100 each month just to get by. I have to endure.
 
-내년까지는 매달 100 이상 숨만 쉬어도 나간다. 버텨야한다.
+Prices keep rising, so there’s a limit to how much money I can spend each month.
 
-물가는 계속 올라서 매달 쓸 수 있는 돈이 한계가 있다.
+If I put in a bit more savings from here… I will really have nothing left.
 
-여기서 적금 좀더 넣어버리면.. 정말 없다.
+I hope the situation with CodeXXXX and unfair contracts can improve, but unfortunately, ignorance leads to suffering in capitalism.
 
-코드XXXX 불공정 계약이 어떻게 상황이 좋아질 수 있으면 좋겠지만.. 잔인하지만 자본주의에서 무식하면 당하는거다.
+I hope the bull market returns so that my assets can at least increase a bit.
 
-다시 불장이 와서 자산이 그래도 좀 늘어났으면 좋겠다.
+**Exercise**
 
-**운동**
+I stopped going to the gym last year, and I wasted more than half a year... I feel so lethargic.
 
-작년에 헬스장을 끊어놓고 반년 이상은 통째로 날려버렸다.. 너무 무기력하다.
+It’s a waste of money, and I worry about how to recover the muscle loss I've experienced.
 
-돈도 너무 아깝고, 그동안 생긴 근손실은 어떻게 다시 복구 할건지 걱정이다.
-
-집주변에 또 운동할만한 곳이 마땅히 없어서 꾸준히 다니기에 또 쉽지 않을 것 같다.
+There aren't many places around my house where I can exercise, so it won't be easy to keep going consistently.

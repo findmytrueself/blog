@@ -1,61 +1,61 @@
 ---
-title: '나는 ADHD 일까?'
+title: 'Am I ADHD?'
 author: '임훈'
 date: 2024-09-03T14:52:35+09:00
 category: ['LIFE']
 ---
-ADHD는 요즘 많이 어디선가 들리는 단어다.
+ADHD is a term that I’ve been hearing a lot these days.
 
-`주의력 결핍 과다행동 장애`
+`ADHD(Attention Deficit Hyperactivity Disorder)`
 
-주의력이 떨어지므로 산만하고, 충동적이다.
+It’s characterized by decreased attention, leading to distractibility and impulsiveness.
 
-정신질환이 아니라, 발달장애라고 한다.
+It is not considered a mental illness, but rather a developmental disorder.
 
-**어린시절의 나**
+**My Childhood**
 
-내 정말 어릴적을 지금 돌이켜보면, 책을 한번 읽으면 10권 20권도 앉은자리에서 읽었다. 엄마는 천재를 낳았다며, 내심 기대를 했었나보다.
+Looking back on my childhood, I remember reading 10 or 20 books in one sitting. My mom probably thought she had given birth to a genius.
 
-초등학교에 들어오고 나서부터는 책을 아예 안읽었다. 그 시간에 게임만 했다.
+However, after entering elementary school, I stopped reading altogether and spent that time playing games.
 
-내가 ADHD인지는 아직도 모르겠지만, 내가 좋아하는 영역이 아니면, 지금도 앉아서 책읽기가 어렵다.
+I still don’t know if I have ADHD, but even now, if it’s not something I like, I find it difficult to sit and read.
 
-초등학교 생기부를 볼 수 있었는데, 초1,초2때 산만하다고 써있었다. 선생이 나를 싫어해서 그런말을 적었다고 생각했다.
+I was able to see my elementary school report cards, and they noted that I was distracted in first and second grade. I thought the teacher wrote that because she didn’t like me.
 
-ADHD 특징이 시간관념이 없다라는 것이다.
+One characteristic of ADHD is a lack of time awareness.
 
-지금도 그렇고, 지각을 자주했다. 고등학교 때는 지각 하면 맞았는데, 나만 3연속 지각을 해서, 첫날 10대, 둘째날 20대, 셋째날 30대를 맞았던 경험이 있다.
+Even now, I often arrive late. In high school, I was punished for being late, and on one occasion, I was late three times in a row, receiving 10 lashes on the first day, 20 on the second, and 30 on the third.
 
-30대씩 피멍들어가며 맞아가면서 지각하고 싶어서 했겠는가.. 옛날일이니깐.. 지금은 웃으면서 얘기하고 싶다.
+Did I want to be late and get beaten? It was a long time ago, so I want to laugh about it now.
 
-평소보다 30분 더 일찍 나가면 되는건데, 나는 항상 그게 안된다. 
+I only needed to leave 30 minutes earlier than usual, but I could never manage that.
 
-빨리 나가려는 마음이 일단 안생기고, 억지로 시간 맞춰 겨우겨우 나가면, 뭔가 빠뜨린게 있는가 확인하고, 차를 놓치고, 마음은 누구보다 바쁜데 결과적으로 항상 늦다.
+I never feel the urge to leave quickly, and when I finally force myself to leave on time, I end up checking if I’ve forgotten something, miss my ride, and despite feeling busier than anyone else, I always end up late.
 
-그러고보니, 중학교 때는 걸어서 3분 거리 임에도 불구하고 지각을 자주 했었다. 좀 덜하긴 했으나, 거리는 의미가 없는 것 같다.
+Now that I think about it, even though I lived just a 3-minute walk from school in middle school, I was often late. It was slightly better, but the distance seemed irrelevant.
 
-**요즘의 나**
+**My Current Self**
 
-항상 일찍 일어나야한다는 압박감에 살고 있고, 출근시간을 맞춰야 한다는 압박에 살고 있다.
+I constantly feel pressure to wake up early and to meet my work hours.
 
-나는 이 회사가 좋았던게, 출퇴근시간이 자율이라 언제든 업무에만 집중 하면 된다는 생각에 편하게 다녔다.
+I liked this company because the flexible working hours allowed me to focus solely on my tasks.
 
-하지만, 점점 그런 분위기와 멀어지는 것 같아서, 심적으로 힘들다. 회사를 옮기고 싶다.
+However, I feel like I’m drifting away from that atmosphere, and it’s mentally exhausting. I want to change jobs.
 
-내가 이상적으로 생각하는 회사는 알아서 자기 할 일 잘하는 그런 분위기 인데, 점점 그런 이상적인 모습과는 거리가 멀어지고 있는 것 같다.
+The ideal company for me would be one where everyone knows how to do their jobs well, but I feel like we’re moving further away from that ideal.
 
-**신경정신과 방문**
+**Visiting a Psychiatrist**
 
-우울증이 심해져서, 최근 불면이 심하다. 최근 신경정신과에 난생 처음 방문하게 되었다.
+My depression has worsened, and I’ve been suffering from insomnia. Recently, I visited a psychiatrist for the first time.
 
-계기는 이틀밤을 거의 한두시간만 잤음에도 불구하고, 여전히 잠이 안와서였다.
+The trigger was that despite sleeping only one or two hours for two nights, I still couldn’t fall asleep.
 
-말을 잘 들어주시고, 누군가에게 나의 불편함을 속 시원히 털어놓고 나니 한결 기분이 좋아졌다.
+Talking to someone who listened to my troubles made me feel a lot better.
 
-의사선생님께서 ADHD인 것 같다고, ADHD 검사를 다음 기회에 해보자고 하셨다. 
+The doctor suggested that I might have ADHD and recommended that I take an ADHD test next time.
 
-약들은 효과가 좋았다. 잠이 잘 왔다. 그 약을 먹고는 8시간씩 정말 깊게 잘 수 있었다. 약기운이 다음날까지 있는지 낮에도 몽롱한 기분이 있다.
+The medication worked well. I was able to sleep soundly. After taking the medication, I could sleep deeply for eight hours. I still feel a bit dazed during the day, possibly due to the lingering effects of the medication.
 
-그러고보니, 화도 많이 줄어든 것 같다.
+It seems that I’ve also been less irritable.
 
-좀 걱정 되는 건, 밤에 정신이 멀뚱멀뚱하면 계속 그 약(`자낙스`)을 찾는 것 같아, 적당히 스스로 조절해야겠다.
+However, I’m worried that if I feel spaced out at night, I might start relying too much on that medication (Xanax), so I need to learn to manage it responsibly.

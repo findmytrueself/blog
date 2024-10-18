@@ -1,18 +1,18 @@
 ---
-title: 'React Custom hooks 정확한 이해'
-author: '임훈'
+title: 'Understanding React Custom Hooks'
+author: 'Hun Im'
 date: 2023-01-10T18:22:35+09:00
 category: ['React', 'Javascript']
 og_image: "/images/gamer.png" 
 keywords: ['Javascript', 'React']
 ---
-그동안 리액트를 사용해 오면서, 기본 hooks를 이용하여 대부분의 로직을 수행했다. 하지만 반복되는 코드에 대해 항상 어떻게 하면 재사용성을 늘릴 수 있을까 고민 했었다.
+While using React, I mostly relied on the built-in hooks to handle most of my logic. However, I often pondered how to increase reusability for repetitive code.
 
-커스텀 훅을 잘 사용하면 더 높은 레벨의 프론트엔드 개발자가 될 것 같았다.
+I believed that effectively using custom hooks would help me become a higher-level frontend developer.
 
-커스텀 훅의 가장 중요한 원칙은 '값의 재사용이 아닌 로직의 재사용' 이다.
+The most important principle of custom hooks is "reusability of logic, not values."
 
-훅 내부에 상태 변화에 대한 값만 매개변수로 지정해주어, Side effect에 따른 로직을 정해준다.
+By specifying only the values related to state changes as parameters within the hook, we can define the logic based on side effects.
 
 ```jsx
 import { useState } from 'react'
@@ -35,7 +35,7 @@ function App() {
 }
 ```
 
-위의 코드를 custom hook으로 만들어보자.
+Let's convert the above code into a custom hook.
 
 ```js
 import { useState } from 'react'
@@ -109,7 +109,7 @@ function App() {
 }
 ```
 
-위의 코드를 custom hook을 이용한 로직으로 바꿔보자.
+Now, let's refactor the above code using a custom hook.
 
 ```js
 import { useEffect, useState } from 'react'

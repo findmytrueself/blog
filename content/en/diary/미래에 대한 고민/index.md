@@ -1,23 +1,23 @@
 ---
-title: '미래에 대한 고민'
+title: 'Concerns About the Future'
 author: '임훈'
 date: 2024-09-09T14:52:35+09:00
 category: ['LIFE']
 ---
-나는 현 회사에서 3년차 프론트 개발자이다.
+I am a third-year front-end developer at my current company.
 
-나름 회사에서 중요한 많은 일을 했다고 생각했는데, 또 막상 뭘했냐고 했을 때 자신있게 답하기가 민망하다.
+I believe I’ve done many important things here, but when it comes to confidently answering what I’ve accomplished, it feels awkward.
 
-또, 최근 업데이트 된 챗지피티 4o를 쓰면서, 점점 의지하고 있는게 느껴졌다.
+Recently, while using the updated ChatGPT 4o, I’ve noticed that I’m increasingly relying on it.
 
-모든 일엔 100%는 없다 라고 항상 생각하는데, 엔진이 업그레이드 되면 될 수록 정답에 가까운 답을 찾아준다.
+I always think that there is no such thing as 100% certainty in anything, but as the engine upgrades, it gets closer to providing correct answers.
 
-유료버전을 사용 하기 전에는 바보같은 대답만 하던 챗지피티를 무시했었는데, 지금은 정말 다르다.
+Before using the paid version, I used to dismiss ChatGPT for giving silly responses, but now it’s truly different.
 
-사실상 항상 구글링을 통해 해결했던 그 방식과 사실 같나? 모르겠다. 구글링을 통한 답 찾기는 괜찮고, 챗지피티는 안된다? 그것도 이상하다.
+Is it really the same as the way I used to solve problems by constantly googling? I’m not sure. Is it okay to find answers through googling, but not through ChatGPT? That seems strange.
 
-어쨌든, 나는 그 사이에서 앞으로 어떤 커리어를 가져가야하나 고민이 많다.
+Anyway, I have many concerns about what kind of career I should pursue in the future.
 
-취업문은 점점 좁아지고, 뜻대로 이직도 잘 안돼서 몸소 느끼고있는 바이다.
+The job market is getting tighter, and I’m personally feeling the difficulties of making a successful job transition.
 
-계속 도전해야 하는 것 같다. 공부도 계속 해야하고, 내일은 오늘보다 낫게끔 마음을 먹고 살아가려고한다.
+I think I need to keep challenging myself. I have to keep studying and live with the mindset that tomorrow should be better than today.

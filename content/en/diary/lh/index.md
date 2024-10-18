@@ -1,123 +1,123 @@
 ---
-title: "LH전세대출로 집구하기"
+title: "Finding a Home with LH Jeonse Loan"
 author: "임훈"
 date: 2022-05-25T18:22:35+09:00
 category: ["LIFE"]
 ---
-요즘 현실은 월급을 받고 일을하려면 수도권에 와야한다.
+These days, the reality is that in order to earn a salary, one must come to the metropolitan area.
 
-아니면, 공기업을 가던가 자영업을 하던가.. 일용직이나 알바를 하던가이다.
+Otherwise, you either have to work for a public enterprise, run a business, or do casual or part-time jobs.
 
-그래서 나같은 사람들은 되게 수도권을 와야만 먹고산다. 하지만, 나는 전혀 수도권에 연고가 없다.
+So, people like me have no choice but to come to the metropolitan area to survive. However, I have no connections here at all.
 
-결국 먹고 사려면 수도권에서 자리를 잡아야하는데, 그때부터는 이제 주거문제로 항상 골머리를 싸매야한다.
+Ultimately, if I want to live, I need to establish myself in the metropolitan area, but that’s when I have to constantly grapple with housing issues.
 
-**살기 위해서**
+**To Survive**
 
-한달 고정 지출을 생각 해 보았는가?
+Have you thought about your monthly fixed expenses?
 
-그중에 가장 큰 주거비용은 정말 숨만쉬어도 나가는 돈이다.
+Among these, the largest cost is housing, which is money that goes out just for breathing.
 
-사실 우리가 돈을 버는 이유는 무엇인가?
+In fact, what is the reason we earn money?
 
-나는 더 나은 삶의 질을 찾기 위해서 돈을 번다고 생각한다.
+I believe we earn money to seek a better quality of life.
 
-목돈을 마련해야만 삶의 질을 올릴수가 있는데, 여기서는 숨만쉬어도 돈이 나간다.
+To improve the quality of life, I need to save a lump sum, but in this place, just breathing incurs expenses.
 
-돈을 벌기는 쉽지 않지만, 돈을 쓰기는 너무나도 쉽다.
+Making money is not easy, but spending it is all too simple.
 
-**LH전세대출을 받은 계기**
+**The Reason I Took Out the LH Jeonse Loan**
 
-2021년 한창 개발공부를 할 때, 그때도 어떻게 하면 앞으로 좀더 저렴하게 나은집을 살수있을까 고민하며 사이트를 들락날락 거렸다.
+Back in 2021, when I was studying development, I often wondered how I could buy a better and cheaper house in the future, so I browsed various sites.
 
-그중에 마포에있는 행복주택을 1차로 신청하고, 2차로 LH 3순위를 신청했다.
+Among them, I first applied for the Happy Housing in Mapo and then for the LH 3rd priority.
 
-마포에있는 행복주택은 당연히 수도권이나 같은 지역구 사람들에게 밀릴것이라고 판단하여, 쉐어형으로 신청했었다.
+I assumed that the Happy Housing in Mapo would be competing against people from the metropolitan area and the same district, so I applied for a shared unit.
 
-LH는 운좋게도 3순위 전형이 있어서, 소득이 책정이 안되어있던 나는 청년 혹은 취업준비생으로 운좋게 신청할 수 있었다.
+Fortunately, LH had a lucky 3rd priority selection process, allowing me to apply as a young person or job seeker since my income hadn’t been assessed.
 
-그러고는 몇달 간 소식이 없었다.
+After that, there was no news for several months.
 
-그때까지는 이미 취업도 되어있는 상태였고, 여러 고시원을 옮겨다니며 전전긍긍 하고 있었다.
+By that time, I had already secured employment and was anxiously moving between different goshiwons (one-room accommodations).
 
-정말 절망적인건 고시원이라고 해서 월세가 싼 것도 아니었다.
+The really frustrating thing is that just because it's a goshiwon doesn’t mean the rent is cheap.
 
-**집은 어떻게 구하러 다녔나요?**
+**How Did I Search for a House?**
 
-현재 다니는 회사가 분당에 있어서, 기존에 마포에 신청했던 행복주택은 되도 갈까 고민하고 있는 찰나에.. 심사 중에 소득이 생겨버려서 행복주택도 명단에서 제외되었다.
+Currently, my workplace is located in Bundang, and while I was considering whether I could still go for the Happy Housing I applied for in Mapo, I ended up getting an income during the review process, which disqualified me from the Happy Housing list.
 
-나머지는 LH전세대출이나 일반 청년전세자금대출 혹은 디딤돌전세대출 같은 제도만 가능했다.
+The only options left were the LH Jeonse loan, general youth jeonse loan, or the Didiimdol jeonse loan.
 
-사실 100% 모두 나오는 전세대출은 LH전세대출과 중소기업청년대출밖에 없다.
+In fact, the only places that provide 100% of the jeonse loan are the LH Jeonse loan and the small business youth loan.
 
-정말 아이러니 한 것은 그런 100%를 대출 나오는 방을 찾기는 하늘에 별따기 보다 힘들었다.
+Ironically, finding a room where 100% of the loan is available is harder than finding a needle in a haystack.
 
-딱 봤을때 괜찮아보이는 집은 전부 안된다고 보면 된다.
+All the houses that seemed decent were not eligible.
 
-그래서, 회사 다니면서 시간을 짜내면서 오토바이를 타고 집보러 경기남부는 거의 모두 돌아다녔다고 보면 된다.
+So, while working, I made time to ride my motorcycle and checked out almost all the houses in southern Gyeonggi Province.
 
-최대한 분당에서 집을 구하고 싶었지만.. 분당에서 LH나 중기청은 수요가 너무 많아서 거의 모두 안된다고 보면되고, 다른 대출을 받기에는, 금리가 계속 오르는 추세라 이자감당이 안될 것 같았고, 전세사기 또한 당할까봐 두려웠다.
+I wanted to find a house as close to Bundang as possible, but there was so much demand for LH or small business loans in Bundang that almost all of them were not available.
 
-그래서, 나에게 선택지는 몇가지 없었다. 보증금 낮게 월세아니면 LH를 이용한 전세였다.
+Furthermore, with interest rates continuing to rise, I was worried about managing the interest if I took out a different loan, and I was also afraid of falling victim to rental scams.
 
-*LH전세대출의 좋은점*
+So, I had very few options: either a low deposit with monthly rent or using the LH Jeonse loan.
 
-**전세사기를 당할 위험이 1도 없다.**
+*Advantages of LH Jeonse Loan*
 
-왜냐하면, 관련 대출금은 나와 집주인의 계약이 아닌, LH공사와 집주인과의 계약이기 때문이다.
+**There’s no risk of rental scams.**
 
-그래서 정말 마음높고 계약 할 수 있었다.
+This is because the loan is not based on a contract between me and the landlord but rather a contract between LH Corporation and the landlord.
 
-권리분석만 승인이 나오면, 계약날 법무사님이 알아서 다 해주신다.
+This allows for a high level of trust when signing the contract.
 
-**전세금 100% 대출**
+Once the rights analysis is approved, the attorney will handle everything on the contract date.
 
-요즘에는 집값이 너무나 비싸니깐 1억에 80%만 대출받는다고 해도, 2000만원이 필요하다
+**100% Jeonse Loan**
 
-근데 웃긴건 대출가능한 전세 1억짜리 집은 그렇게 좋은 집이 없을 것이다.
+These days, house prices are incredibly high, so even if you get an 80% loan for a house worth 100 million KRW, you’ll still need 20 million KRW.
 
-사실 이자 생각하면 월세랑 거의 다를게 없다.
+But the funny thing is that a house with a 100 million KRW jeonse that’s available for loan is unlikely to be a good one.
 
-월세는 오히려 전세사기를 안당하니깐 더 이득일수도 있다..
+In fact, considering the interest, there’s hardly any difference from monthly rent.
 
-LH전세대출은 100% 대출이 나온다. 그리고 고정금리 2%이다. 각자 개인에따라 우대금리도 0.5%씩 적용된다.
+In some cases, renting might actually be more beneficial since you won’t fall victim to rental scams.
 
-*LH전세대출의 나쁜점*
+The LH Jeonse loan provides a 100% loan with a fixed interest rate of 2%. Depending on the individual, a preferential interest rate of 0.5% can also be applied.
 
-**딱봤을때 사람들이 살고싶지않은 집들을 살아야 한다.**
+*Disadvantages of LH Jeonse Loan*
 
-나의 오로지 주 목적은 월세를 최대한 줄이고자 였기 때문에.. 최대한 LH를 이용해야했었다.
+**You have to live in houses that people generally don’t want to stay in.**
 
-그래서 방 상태도 그냥 살만하면 들어가야겠다. 하고 방을 보러 다녔는데.. 웬걸.. 정말 충격적인 상태의 집들이 너무나 많았다.
+Since my primary goal was to minimize my rent, I had to rely on LH as much as possible.
 
-그런데 정말 그것 또한 없어서 못구한다. 너무 충격을 받아 사실 LH는 포기하고 있었다.
+So, when I went to see rooms, I thought I could just settle for any decent place. But to my shock, there were so many houses in terrible condition.
 
-**방을 구하게 된 계기**
+However, it was really hard to find something decent, which was disappointing enough to make me consider giving up on LH altogether.
 
-여러 동네를 다니면서 나는 그래도 신분당선에 가까운 곳으로 최대한 구하고자 노력했다.
+**How I Ended Up Finding a Room**
 
-신분당선을 타면, 강남, 판교, 정자(회사), 광교까지 가고, 앞으로 노선도 확장이 되가고 있기 때문이었다.
+While exploring various neighborhoods, I tried to find a place as close to the Shinbundang Line as possible.
 
-물론, 가격은 그마만큼 비싸지만, 그래도 신분당선을 탈때만큼은 삶의질이 향상된다.
+If I could take the Shinbundang Line, I could easily access Gangnam, Pangyo, Jeongja (where my company is), and Gwanggyo, and the line is expected to expand further.
 
-그래서 버스로 접근 가능한 지역의 방들을 보다가, 전면 리모델링이 진행중인 집을 발견했다.
+Of course, the prices are higher in that area, but when I use the Shinbundang Line, the quality of life improves.
 
-건물은 오래되었지만, 투룸에 내부는 깔끔하니 되어 있어서 지금 상황에서는 최선이라고 판단하고 바로 계약을 했다.
+So while looking at rooms accessible by bus, I discovered a building undergoing a full renovation.
 
-반전세로 월세를 좀더 내고 살지만.. 그래도 못구하고 있는것보단 낫다고 판단하고 계약을 진행했다.
+Although the building was old, the two-room unit was clean inside, so I judged that it was the best option given my situation and signed the contract immediately.
 
-옵션이 단, 하나도 없어서 다 직접 구해야한다. 그게 좀 단점이다.
+I ended up choosing a semi-jeonse option, which requires paying a bit more in rent, but I felt it was better than not finding a place at all.
 
-지금은 입주날을 기다리고 있는 상태이다. 출퇴근 시간은 늘어나겠지만.. 앞으로는 가끔은 재택근무를 하면서, 최대한 출퇴근 시간을 줄여보고자 한다.
+The downside is that there are no options included, so I have to purchase everything myself.
 
-**느낀점**
+Now I am waiting for the move-in date. My commuting time will increase, but in the future, I plan to work from home occasionally to try to minimize my commuting time.
 
-지금까지 살면서 대부분 아파트 생활만 해왔었기 때문에, 빌라의 불편함을 못느끼고 있지만, 앞으로 살아가면서 느끼게 될 것 같다.
+**Reflections**
 
-그래도, 내 스스로 집을 구했다는 것에 대해 자랑스럽게 생각한다.
+Since I have mostly lived in apartments, I haven’t experienced the inconveniences of living in villas, but I expect to feel that as I continue living here.
 
-코드XXXX에서 가져가는 돈이 너무나 많아서, 월에 나가는 비용을 최대한 줄여야 하는 나의 최선이었다.
+Still, I feel proud that I was able to find a home on my own.
 
-공간이 늘어나서 당연히 삶의 질도 올라 갈 것이고, 집에서 할 수 있는 것도 많이 생길 것 같다.
+With so much money taken from CodeXXXX, my priority was to minimize my monthly expenses.
 
-LH전세대출이 당첨되면 꼭 여러군데를 산삼(?)을 찾듯 돌아다녀보는 것도 하나의 재미가 될 수도 있겠다.
+With more space, my quality of life will naturally improve, and I expect to have more activities I can do at home.

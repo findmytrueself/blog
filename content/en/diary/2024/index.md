@@ -1,40 +1,40 @@
 ---
-title: '2024 시련'
+title: 'Trials of 2024'
 author: '임훈'
 date: 2024-09-02T12:41:35+09:00
 category: ['LIFE']
 ---
 
-인생에 있어서 가장 큰 시련이왔다.
+The biggest trial in my life has come.
 
-올해 초 투자로 많은 돈을 벌었고 지나친 자신감이 생겼다.
+Earlier this year, I made a lot of money from investments, which led to excessive confidence.
 
-큰 베팅을 계속해서 하게 되었고, 결국 큰 손실을 봤다.
+I kept making big bets, and ultimately, I faced significant losses.
 
-정신이 무너지는걸 날마다 느끼는 순간이었다.
+It was a moment when I felt my mental state crumbling every day.
 
-일은 손에 전혀 잡히질 않았고, 한동안 공황장애 증세가 있었다.
+I couldn’t focus on work at all, and I experienced panic disorder symptoms for a while.
 
-때마침 급하게 끝내야 할 하나의 프로젝트가 생겨서, 한달 간은 해당 업무에 집중하며 밤낮 가리지 않고 시간을 보냈다.
+Just then, a project that needed to be completed urgently came up, and for a month, I focused on that work, spending all my time day and night.
 
-딴생각 안났기 때문에 끝날때 까지 정신을 버틸 수 있었다.
+Since I couldn't think of anything else, I managed to hold on mentally until it was finished.
 
-프로젝트가 끝나고, 다시 번아웃이 왔다.
+After the project ended, I fell back into burnout.
 
-회사에서 멍때리는게 일과였다.
+At work, zoning out became my routine.
 
-유튜브에서 정신병에 대해 시청을 하며 공부를 많이 하게 되었다.
+I watched a lot of videos on mental illness on YouTube.
 
-나르시시스트라는 개념에 대해 알게 되었고, 주변에 상당히 많이 있었고, 알게모르게 나는 고갈되고 있었다.
+I learned about the concept of narcissism and realized there were quite a few narcissists around me, draining me without me even noticing.
 
-우울증이 심해졌다. 언제 활짝 웃었는지 기억이 나질 않는다.
+My depression worsened. I can’t remember the last time I smiled genuinely.
 
-아직 나를 놓치 않았기 때문에 다시 일어서보려고 노력 한다.
+Since I haven’t completely lost myself yet, I’m trying to rise again.
 
-이 블로그도 그 발판이 되었으면 한다. 집도 치우고, 운동도 다시 시작하고.. 공부도 더 해야한다.
+I hope this blog can serve as a stepping stone. I need to clean my house, start exercising again, and study more.
 
-최근 이직 면접을 보고, 간단한 질문에 대해 대답을 못하는 자신이 한심했다.
+I recently had a job interview and felt pathetic for not being able to answer simple questions.
 
-마음이 너무 급하다. 천천히 꾸준히 하는게 중요하다. 게임도 이제 재미가 없다. 더이상 올라갈 실력이 안되는 것 같다.
+I’m feeling too anxious. It’s important to take things slowly and steadily. Even gaming no longer brings me joy; I feel like I can't improve anymore.
 
-앞으로 그 시간을 나를 수양하는데 써야겠다.
+I should spend that time cultivating myself moving forward.

@@ -1,6 +1,6 @@
 ---
-title: 'Redux Thunk 정리'
-author: '임훈'
+title: 'Overview of Redux Thunk'
+author: 'Hun Im'
 date: 2022-12-23T13:53:35+09:00
 category: ['POSTS']
 tags: ['Javascript', 'React']
@@ -8,7 +8,7 @@ og_image: "/images/gamer.png"
 keywords: ['Javascript', 'React']
 ---
 
-1. createAsyncThunk는 비동기 작업을 처리하는 Action을 만들어준다.
+1. `createAsyncThunk` allows you to create actions for handling asynchronous operations.
 
 ```js
 const asyncUpFetch = createAsyncThunk('counterSlice/asyncUpFetch', async () => {
@@ -19,5 +19,5 @@ const asyncUpFetch = createAsyncThunk('counterSlice/asyncUpFetch', async () => {
 ```
 - createAsyncThunk Flow
   ![createAsyncThunk](images/reduxthunk1.png)
-- reducers를 사용하면, actionCreator를 툴킷이 자동으로 만들어주지만, 비동기작업에서는 actionCreator를 자동으로 만들어주지 못하기 때문에, extraReducers에 직접 만들어 주어야 한다.
+- While reducers automatically create action creators for you, this is not the case for asynchronous operations. You need to create the action creators manually within `extraReducers`.
   ![actionCreator](images/reduxthunk2.png)

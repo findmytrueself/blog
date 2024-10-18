@@ -1,6 +1,6 @@
 ---
 title: 'FlexBox'
-author: '임훈'
+author: 'Im Hun'
 date: 2024-02-27T17:26:35+09:00
 category: ['POSTS']
 tags: ['CSS']
@@ -10,20 +10,16 @@ keywords: ['CSS']
 
 **flex-basis**
 
-`width` 랑 비슷한 개념
-
-최초의 박스의 크기를 지정 할 수 있다.
+Similar to `width`, it allows you to specify the initial size of the box.
 
 **flex-grow**
 
-전체 박스의 크기에서 빈 부분을 값을 1을 주면 채울 수 있다.
-기본값 0
+You can fill the available space in the overall box by giving it a value of 1. The default value is 0.
 
 **flex-shrink**
 
-동적으로 해당 박스의 크기를 줄일 수 있다.
-기본값 1
+It allows you to dynamically reduce the size of the box. The default value is 1.
 
 **flex-wrap**
 
-박스의 화면을 초과 하면 밑으로 내릴 수 있다.
+If the boxes exceed the screen width, they can be wrapped to the next line.
