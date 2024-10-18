@@ -1,6 +1,6 @@
 ---
 title: 'FlexBox'
-author: 'Im Hun'
+author: 'Hun Im'
 date: 2024-02-27T17:26:35+09:00
 category: ['POSTS']
 tags: ['CSS']

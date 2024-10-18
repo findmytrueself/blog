@@ -1,6 +1,6 @@
 ---
 title: 'Image Masking in React'
-author: 'Im Hun'
+author: 'Hun Im'
 date: 2022-05-30T18:26:25+09:00
 category: ['POSTS']
 tags: ['Javascript', 'React']
