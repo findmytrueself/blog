@@ -1,6 +1,6 @@
 ---
 title: "Finding a Home with LH Jeonse Loan"
-author: "임훈"
+author: "Hun Im"
 date: 2022-05-25T18:22:35+09:00
 category: ["LIFE"]
 ---

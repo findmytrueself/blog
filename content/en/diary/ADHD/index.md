@@ -1,6 +1,6 @@
 ---
 title: 'Am I ADHD?'
-author: '임훈'
+author: 'Hun Im'
 date: 2024-09-03T14:52:35+09:00
 category: ['LIFE']
 ---

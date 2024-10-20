@@ -1,6 +1,6 @@
 ---
-title: '2023 목표'
-author: '임훈'
+title: '2023 Goals'
+author: 'Hun Im'
 date: 2023-01-10T13:41:35+09:00
 category: ['LIFE']
 ---

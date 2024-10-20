@@ -1,6 +1,6 @@
 ---
 title: 'Concerns About the Future'
-author: '임훈'
+author: 'Hun Im'
 date: 2024-09-09T14:52:35+09:00
 category: ['LIFE']
 ---

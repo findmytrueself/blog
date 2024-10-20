@@ -1,6 +1,6 @@
 ---
 title: 'Trials of 2024'
-author: '임훈'
+author: 'Hun Im'
 date: 2024-09-02T12:41:35+09:00
 category: ['LIFE']
 ---
