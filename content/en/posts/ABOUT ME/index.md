@@ -4,7 +4,10 @@ author: '임훈'
 date: 2024-10-16T10:53:35+09:00
 ---
 
-# 3rd Year Web3 Frontend Developer - Hun Im
+# 4years Frontend Developer - Hun Im
+* I am a person who passionately immerses myself.
+* I am a person with endless curiosity.
+* I am a person with a positive mindset
 
 ## Experience
 
