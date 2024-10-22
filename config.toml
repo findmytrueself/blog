@@ -1,6 +1,6 @@
 baseURL = "https://findmytrueself.github.io/"
-languageCode = "ko"
-defaultContentLanguage = "ko"
+languageCode = "en"
+defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 paginate = 3
 title = "Hun's Blog ✍️"
