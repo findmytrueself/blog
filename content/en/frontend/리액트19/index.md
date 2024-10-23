@@ -10,7 +10,7 @@ keywords: ['Javascript', 'React']
 
 ## Major New Features
 
-### 1. Actions
+1. Actions
 
 - Enhanced support for asynchronous functions: By using `useTransition`, you can automatically manage pending states, error handling, and optimistic updates in asynchronous functions.
 
@@ -29,7 +29,7 @@ const handleSubmit = () => {
 }
 ```
 
-### 2. New Hook: `useActionState`
+2. New Hook: `useActionState`
 
 - Easily handle common cases of Actions: Manage the results of asynchronous actions, pending states, errors, and more.
 
@@ -45,7 +45,7 @@ const [error, submitAction, isPending] = useActionState(
 )
 ```
 
-### 3. React DOM: <form> Actions and `useFormStatus`
+3. React DOM: <form> Actions and `useFormStatus`
 
 - Pass functions as `action` and `formAction` props: Automatically manage form submissions and reset the form after submission.
 
@@ -58,7 +58,7 @@ function DesignButton() {
 }
 ```
 
-### 4. New Hook: `useOptimistic`
+4. New Hook: `useOptimistic`
 
 - Manage optimistic updates: Provide immediate feedback to users while asynchronous requests are in progress.
 
@@ -73,7 +73,7 @@ const submitAction = async (formData) => {
 }
 ```
 
-### 5. New API: `use`
+5. New API: `use`
 
 - Support reading resources during rendering: Use `use` to read promises or contexts and suspend components if necessary.
 
@@ -84,7 +84,7 @@ function Comments({ commentsPromise }) {
 }
 ```
 
-### 6. React Server Components
+6. React Server Components
 
 - Support for server components: Pre-render components on the server to reduce client bundle sizes and improve performance.
 
@@ -92,7 +92,7 @@ function Comments({ commentsPromise }) {
 
 ## Improvements
 
-### 1. Passing ref as a Prop
+1. Passing ref as a Prop
 
 - No need for forwardRef: You can directly receive and use ref as a prop in functional components.
 
@@ -102,11 +102,11 @@ function MyInput({ placeholder, ref }) {
 }
 ```
 
-### 2. Improved Debugging for Hydration Errors
+2. Improved Debugging for Hydration Errors
 
 - Providing diffs: More clear messages and debugging information for errors occurring during hydration.
 
-### 3. Using <Context> as a Provider
+3. Using <Context> as a Provider
 
 - More concise context usage: You can provide context values using <Context> instead of <Context.Provider>.
 
@@ -118,7 +118,7 @@ function App({ children }) {
 }
 ```
 
-### 4. Support for Cleanup Functions in ref
+4. Support for Cleanup Functions in ref
 
 - Return cleanup functions: You can return a cleanup function from a ref callback to execute when a component unmounts.
 
@@ -133,7 +133,7 @@ function App({ children }) {
 />
 ```
 
-### 5. Initial Value Support in `useDeferredValue`
+5. Initial Value Support in `useDeferredValue`
 
 - Setting an initial value: Add an `initialValue` option to `useDeferredValue` to specify the value used during initial rendering.
 
@@ -141,7 +141,7 @@ function App({ children }) {
 const value = useDeferredValue(deferredValue, '')
 ```
 
-### 6. Support for Document Metadata
+6. Support for Document Metadata
 
 - Natural use of <title>, <meta>, <link> tags: Define document metadata directly within components, and React automatically hoists them to <head>.
 
@@ -157,7 +157,7 @@ function BlogPost({ post }) {
 }
 ```
 
-### 7. Improved Stylesheet Support
+7. Improved Stylesheet Support
 
 - Managing stylesheet precedence: Control the insertion order of stylesheets using the precedence attribute on <link> tags.
 
@@ -165,7 +165,7 @@ function BlogPost({ post }) {
 <link rel="stylesheet" href="style.css" precedence="high" />
 ```
 
-### 8. Support for Asynchronous Scripts
+8. Support for Asynchronous Scripts
 
 - Managing load order and deduplication: Declare asynchronous scripts within components, and React manages load order and deduplication.
 
@@ -180,7 +180,7 @@ function MyComponent() {
 }
 ```
 
-### 9. Support for Resource Preloading
+9. Support for Resource Preloading
 
 - Performance optimization: Provide APIs like `preload`, `prefetchDNS`, `preconnect` to optimize browser resource loading.
 
@@ -193,14 +193,14 @@ function MyComponent() {
 }
 ```
 
-### 10. Improved Compatibility with Third-Party Scripts and Extensions
+10. Improved Compatibility with Third-Party Scripts and Extensions
 
 - Enhanced hydration: Prevent hydration errors caused by unexpected tags or elements, minimizing conflicts with third-party scripts or browser extensions.
 
-### 11. Improved Error Reporting
+11. Improved Error Reporting
 
 - Removing duplication and providing detailed information: Eliminate duplicate error messages and add new root options like `onCaughtError`, `onUncaughtError` for flexible error handling.
 
-### 12. Support for Custom Elements
+12. Support for Custom Elements
 
 - Improved attribute and property management: Enhanced handling of attributes and properties for custom elements, ensuring consistent behavior in client and SSR environments.
