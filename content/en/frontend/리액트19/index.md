@@ -143,7 +143,7 @@ const value = useDeferredValue(deferredValue, '')
 
 6. Support for Document Metadata
 
-- Natural use of <title>, <meta>, <link> tags: Define document metadata directly within components, and React automatically hoists them to <head>.
+- Natural use of `<title>, <meta>, <link>` tags: Define document metadata directly within components, and React automatically hoists them to `<head>`.
 
 ```jsx
 function BlogPost({ post }) {

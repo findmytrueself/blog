@@ -143,7 +143,7 @@ const value = useDeferredValue(deferredValue, '')
 
 6. 문서 메타데이터 지원
 
-- <title>, <meta>, <link> 태그의 자연스러운 사용: 컴포넌트 내에서 문서의 메타데이터를 직접 정의하고, React가 이를 <head>로 자동 호이스팅합니다.
+- `<title>, <meta>, <link>`태그의 자연스러운 사용: 컴포넌트 내에서 문서의 메타데이터를 직접 정의하고, React가 이를 `<head>`로 자동 호이스팅합니다.
 
 ```jsx
 function BlogPost({ post }) {
@@ -201,6 +201,6 @@ function MyComponent() {
 
 - 중복 제거 및 상세 정보 제공: 오류 메시지의 중복을 제거하고, `onCaughtError`, `onUncaughtError` 등의 새로운 루트 옵션을 추가하여 오류 처리를 유연하게 합니다.
 
-g12. 커스텀 엘리먼트 지원
+12. 커스텀 엘리먼트 지원
 
 - 속성 및 프로퍼티 관리 개선: 커스텀 엘리먼트에 대한 속성과 프로퍼티 처리가 개선되어, 클라이언트 및 SSR 환경에서 일관성 있게 동작합니다.
