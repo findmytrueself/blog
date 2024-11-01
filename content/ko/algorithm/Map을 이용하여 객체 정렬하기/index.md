@@ -34,5 +34,11 @@ console.log(sortedMap);
 // 출력: Map {'banana' => 2, 'mango' => 5, 'orange' => 7, 'apple' => 10}
 
 console.log(Array.from(sortedMap))
+// 다시 sortedByValue로 만드는 방법
+
+for(const [key,value] of sortedMap){
+        console.log(`${key}: ${value}`)
+    }
+// for... of 로 순회하여 키와 값을 처리.
 ```
 
