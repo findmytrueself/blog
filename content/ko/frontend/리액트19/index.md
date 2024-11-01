@@ -159,7 +159,7 @@ function BlogPost({ post }) {
 
 7. 스타일시트 지원 개선
 
-- 스타일시트의 우선순위 관리: <link> 태그에 precedence 속성을 사용하여 스타일시트의 삽입 순서를 제어할 수 있습니다.
+- 스타일시트의 우선순위 관리: `<link>` 태그에 precedence 속성을 사용하여 스타일시트의 삽입 순서를 제어할 수 있습니다.
 
 ```jsx
 <link rel="stylesheet" href="style.css" precedence="high" />

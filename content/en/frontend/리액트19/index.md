@@ -159,7 +159,7 @@ function BlogPost({ post }) {
 
 7. Improved Stylesheet Support
 
-- Managing stylesheet precedence: Control the insertion order of stylesheets using the precedence attribute on <link> tags.
+- Managing stylesheet precedence: Control the insertion order of stylesheets using the precedence attribute on `<link>` tags.
 
 ```jsx
 <link rel="stylesheet" href="style.css" precedence="high" />
